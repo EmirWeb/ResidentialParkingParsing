@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "219",
+               "short_name" : "219",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bedford Park Avenue",
+               "short_name" : "Bedford Park Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bedford Park",
+               "short_name" : "Bedford Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M5M 1J3",
+               "short_name" : "M5M 1J3",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "219 Bedford Park Avenue, Toronto, ON M5M 1J3, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.7255116,
+                  "lng" : -79.41191019999999
+               },
+               "southwest" : {
+                  "lat" : 43.7254988,
+                  "lng" : -79.4119154
+               }
+            },
+            "location" : {
+               "lat" : 43.7254988,
+               "lng" : -79.41191019999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7268541802915,
+                  "lng" : -79.4105638197085
+               },
+               "southwest" : {
+                  "lat" : 43.7241562197085,
+                  "lng" : -79.41326178029152
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

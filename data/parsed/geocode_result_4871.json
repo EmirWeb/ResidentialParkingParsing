@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cambrai Avenue",
+               "short_name" : "Cambrai Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Woodbine - Lumsden",
+               "short_name" : "Woodbine - Lumsden",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "East York",
+               "short_name" : "East York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4C 2P6",
+               "short_name" : "M4C 2P6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4 Cambrai Avenue, East York, ON M4C 2P6, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6959043,
+                  "lng" : -79.3086299
+               },
+               "southwest" : {
+                  "lat" : 43.6958916,
+                  "lng" : -79.30863549999999
+               }
+            },
+            "location" : {
+               "lat" : 43.6959043,
+               "lng" : -79.30863549999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.69724693029149,
+                  "lng" : -79.30728371970849
+               },
+               "southwest" : {
+                  "lat" : 43.69454896970849,
+                  "lng" : -79.3099816802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

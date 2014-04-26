@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "11",
+               "short_name" : "11",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bellefair Avenue",
+               "short_name" : "Bellefair Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "The Beach",
+               "short_name" : "The Beach",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4L 3T7",
+               "short_name" : "M4L 3T7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "11 Bellefair Avenue, Toronto, ON M4L 3T7, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6708797,
+                  "lng" : -79.30014190000001
+               },
+               "southwest" : {
+                  "lat" : 43.6708758,
+                  "lng" : -79.30015949999999
+               }
+            },
+            "location" : {
+               "lat" : 43.6708797,
+               "lng" : -79.30014190000001
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.67222673029151,
+                  "lng" : -79.29880171970851
+               },
+               "southwest" : {
+                  "lat" : 43.66952876970851,
+                  "lng" : -79.30149968029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

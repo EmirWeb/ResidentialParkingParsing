@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "16",
+               "short_name" : "16",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Astley Avenue",
+               "short_name" : "Astley Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown Toronto",
+               "short_name" : "Midtown Toronto",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4W 3B4",
+               "short_name" : "M4W 3B4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "16 Astley Avenue, Toronto, ON M4W 3B4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6889251,
+               "lng" : -79.36966939999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6902740802915,
+                  "lng" : -79.36832041970848
+               },
+               "southwest" : {
+                  "lat" : 43.6875761197085,
+                  "lng" : -79.3710183802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

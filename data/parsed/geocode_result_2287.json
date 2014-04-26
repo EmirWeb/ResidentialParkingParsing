@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "75",
+               "short_name" : "75",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Beechwood Avenue",
+               "short_name" : "Beechwood Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rockcliffe - Smythe",
+               "short_name" : "Rockcliffe - Smythe",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6N 4T2",
+               "short_name" : "M6N 4T2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "75 Beechwood Avenue, York, ON M6N 4T2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6789253,
+               "lng" : -79.4932429
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6802742802915,
+                  "lng" : -79.4918939197085
+               },
+               "southwest" : {
+                  "lat" : 43.6775763197085,
+                  "lng" : -79.49459188029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

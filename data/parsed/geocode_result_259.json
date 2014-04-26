@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "44",
+               "short_name" : "44",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alberta Avenue",
+               "short_name" : "Alberta Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Regal Heights",
+               "short_name" : "Regal Heights",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6H 2R6",
+               "short_name" : "M6H 2R6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "44 Alberta Avenue, Toronto, ON M6H 2R6, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.67652690000001,
+                  "lng" : -79.432265
+               },
+               "southwest" : {
+                  "lat" : 43.6765233,
+                  "lng" : -79.4322828
+               }
+            },
+            "location" : {
+               "lat" : 43.6765233,
+               "lng" : -79.4322828
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6778740802915,
+                  "lng" : -79.4309249197085
+               },
+               "southwest" : {
+                  "lat" : 43.6751761197085,
+                  "lng" : -79.43362288029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

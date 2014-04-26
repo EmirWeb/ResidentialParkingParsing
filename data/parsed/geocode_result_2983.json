@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "42",
+               "short_name" : "42",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bernard Avenue",
+               "short_name" : "Bernard Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown Toronto",
+               "short_name" : "Midtown Toronto",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M5R 1R2",
+               "short_name" : "M5R 1R2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "42 Bernard Avenue, Toronto, ON M5R 1R2, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6739297,
+                  "lng" : -79.3967754
+               },
+               "southwest" : {
+                  "lat" : 43.67391689999999,
+                  "lng" : -79.39678040000001
+               }
+            },
+            "location" : {
+               "lat" : 43.6739297,
+               "lng" : -79.39678040000001
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6752722802915,
+                  "lng" : -79.39542891970851
+               },
+               "southwest" : {
+                  "lat" : 43.6725743197085,
+                  "lng" : -79.39812688029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

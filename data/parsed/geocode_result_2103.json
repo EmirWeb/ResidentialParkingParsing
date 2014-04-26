@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "883",
+               "short_name" : "883",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bathurst Street",
+               "short_name" : "Bathurst St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown Toronto",
+               "short_name" : "Midtown Toronto",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M5R",
+               "short_name" : "M5R",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "883 Bathurst Street, Toronto, ON M5R, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6679365,
+               "lng" : -79.41208759999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.66928548029149,
+                  "lng" : -79.41073861970848
+               },
+               "southwest" : {
+                  "lat" : 43.6665875197085,
+                  "lng" : -79.4134365802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

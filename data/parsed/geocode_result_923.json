@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "138",
+               "short_name" : "138",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ascot Avenue",
+               "short_name" : "Ascot Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Earlscourt",
+               "short_name" : "Earlscourt",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6E",
+               "short_name" : "M6E",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "138 Ascot Avenue, Toronto, ON M6E, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6788609,
+                  "lng" : -79.4496869
+               },
+               "southwest" : {
+                  "lat" : 43.6788481,
+                  "lng" : -79.44969209999999
+               }
+            },
+            "location" : {
+               "lat" : 43.6788609,
+               "lng" : -79.44969209999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.68020348029149,
+                  "lng" : -79.44834051970849
+               },
+               "southwest" : {
+                  "lat" : 43.6775055197085,
+                  "lng" : -79.4510384802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

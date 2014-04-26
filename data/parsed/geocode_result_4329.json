@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "51",
+               "short_name" : "51",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Brookdale Avenue",
+               "short_name" : "Brookdale Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bedford Park",
+               "short_name" : "Bedford Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M5M 1P3",
+               "short_name" : "M5M 1P3",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "51 Brookdale Avenue, Toronto, ON M5M 1P3, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.729562,
+                  "lng" : -79.4053502
+               },
+               "southwest" : {
+                  "lat" : 43.7295492,
+                  "lng" : -79.40535539999999
+               }
+            },
+            "location" : {
+               "lat" : 43.7295492,
+               "lng" : -79.4053502
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7309045802915,
+                  "lng" : -79.40400381970849
+               },
+               "southwest" : {
+                  "lat" : 43.7282066197085,
+                  "lng" : -79.4067017802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

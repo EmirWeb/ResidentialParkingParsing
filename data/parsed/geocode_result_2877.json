@@ -1,0 +1,161 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "331",
+               "short_name" : "331",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Beresford Avenue",
+               "short_name" : "Beresford Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Runnymede",
+               "short_name" : "Runnymede",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6S 3B4",
+               "short_name" : "M6S 3B4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "331 Beresford Avenue, Toronto, ON M6S 3B4, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6536143,
+                  "lng" : -79.4787681
+               },
+               "southwest" : {
+                  "lat" : 43.6536104,
+                  "lng" : -79.4787858
+               }
+            },
+            "location" : {
+               "lat" : 43.6536143,
+               "lng" : -79.4787681
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6549613302915,
+                  "lng" : -79.47742796970849
+               },
+               "southwest" : {
+                  "lat" : 43.6522633697085,
+                  "lng" : -79.48012593029149
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "331",
+               "short_name" : "331",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Beresford Avenue",
+               "short_name" : "Beresford Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bloor West Village",
+               "short_name" : "Bloor West Village",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6S",
+               "short_name" : "M6S",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "331 Beresford Avenue, Toronto, ON M6S, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6512177,
+                  "lng" : -79.47775969999999
+               },
+               "southwest" : {
+                  "lat" : 43.6512138,
+                  "lng" : -79.47777739999999
+               }
+            },
+            "location" : {
+               "lat" : 43.6512177,
+               "lng" : -79.47775969999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.65256473029149,
+                  "lng" : -79.4764195697085
+               },
+               "southwest" : {
+                  "lat" : 43.6498667697085,
+                  "lng" : -79.4791175302915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

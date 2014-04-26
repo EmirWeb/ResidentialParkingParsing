@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "138",
+               "short_name" : "138",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Balmoral Avenue",
+               "short_name" : "Balmoral Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown Toronto",
+               "short_name" : "Midtown Toronto",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4V 1J5",
+               "short_name" : "M4V 1J5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "138 Balmoral Avenue, Toronto, ON M4V 1J5, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6845514,
+                  "lng" : -79.3995963
+               },
+               "southwest" : {
+                  "lat" : 43.6845386,
+                  "lng" : -79.3996013
+               }
+            },
+            "location" : {
+               "lat" : 43.6845514,
+               "lng" : -79.3996013
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6858939802915,
+                  "lng" : -79.39824981970848
+               },
+               "southwest" : {
+                  "lat" : 43.6831960197085,
+                  "lng" : -79.4009477802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

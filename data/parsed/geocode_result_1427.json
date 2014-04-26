@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "24",
+               "short_name" : "24",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avon Avenue",
+               "short_name" : "Avon Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Harwood",
+               "short_name" : "Harwood",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6N 3W8",
+               "short_name" : "M6N 3W8",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "24 Avon Avenue, York, ON M6N 3W8, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6797791,
+                  "lng" : -79.4777058
+               },
+               "southwest" : {
+                  "lat" : 43.6797741,
+                  "lng" : -79.4777228
+               }
+            },
+            "location" : {
+               "lat" : 43.6797791,
+               "lng" : -79.4777228
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6811255802915,
+                  "lng" : -79.47636531970851
+               },
+               "southwest" : {
+                  "lat" : 43.6784276197085,
+                  "lng" : -79.47906328029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

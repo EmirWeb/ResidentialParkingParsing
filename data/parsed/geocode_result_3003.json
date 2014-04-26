@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "63",
+               "short_name" : "63",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bernice Crescent",
+               "short_name" : "Bernice Crescent",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rockcliffe - Smythe",
+               "short_name" : "Rockcliffe - Smythe",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6N 1W8",
+               "short_name" : "M6N 1W8",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "63 Bernice Crescent, York, ON M6N 1W8, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6674831,
+                  "lng" : -79.49744799999999
+               },
+               "southwest" : {
+                  "lat" : 43.6674721,
+                  "lng" : -79.4974584
+               }
+            },
+            "location" : {
+               "lat" : 43.6674721,
+               "lng" : -79.49744799999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6688265802915,
+                  "lng" : -79.49610421970849
+               },
+               "southwest" : {
+                  "lat" : 43.6661286197085,
+                  "lng" : -79.49880218029149
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

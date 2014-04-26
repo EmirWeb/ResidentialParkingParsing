@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "54",
+               "short_name" : "54",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bicknell Avenue",
+               "short_name" : "Bicknell Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Silverthorn",
+               "short_name" : "Silverthorn",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6M 3W5",
+               "short_name" : "M6M 3W5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "54 Bicknell Avenue, York, ON M6M 3W5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6842552,
+               "lng" : -79.4749781
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.68560418029149,
+                  "lng" : -79.47362911970851
+               },
+               "southwest" : {
+                  "lat" : 43.68290621970849,
+                  "lng" : -79.47632708029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

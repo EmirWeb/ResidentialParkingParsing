@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "38",
+               "short_name" : "38",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bowie Avenue",
+               "short_name" : "Bowie Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Briar Hill - Belgravia",
+               "short_name" : "Briar Hill - Belgravia",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6E 2P2",
+               "short_name" : "M6E 2P2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "38 Bowie Avenue, York, ON M6E 2P2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6976073,
+               "lng" : -79.453197
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6989562802915,
+                  "lng" : -79.45184801970849
+               },
+               "southwest" : {
+                  "lat" : 43.69625831970851,
+                  "lng" : -79.45454598029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "106",
+               "short_name" : "106",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cambridge Avenue",
+               "short_name" : "Cambridge Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Playter Estates",
+               "short_name" : "Playter Estates",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4K 2L7",
+               "short_name" : "M4K 2L7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "106 Cambridge Avenue, Toronto, ON M4K 2L7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6790944,
+               "lng" : -79.3597127
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.68044338029149,
+                  "lng" : -79.35836371970849
+               },
+               "southwest" : {
+                  "lat" : 43.67774541970849,
+                  "lng" : -79.36106168029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

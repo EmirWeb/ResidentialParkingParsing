@@ -1,0 +1,84 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "306",
+               "short_name" : "306",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Boon Avenue",
+               "short_name" : "Boon Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Caledonia - Fairbank",
+               "short_name" : "Caledonia - Fairbank",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6E 4A4",
+               "short_name" : "M6E 4A4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "306 Boon Avenue, York, ON M6E 4A4, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6855775,
+                  "lng" : -79.4496345
+               },
+               "southwest" : {
+                  "lat" : 43.6855737,
+                  "lng" : -79.4496522
+               }
+            },
+            "location" : {
+               "lat" : 43.6855737,
+               "lng" : -79.4496522
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6869245802915,
+                  "lng" : -79.44829436970849
+               },
+               "southwest" : {
+                  "lat" : 43.6842266197085,
+                  "lng" : -79.4509923302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

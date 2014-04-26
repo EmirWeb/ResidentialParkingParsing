@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "80",
+               "short_name" : "80",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Beaver Avenue",
+               "short_name" : "Beaver Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Davenport",
+               "short_name" : "Davenport",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6H",
+               "short_name" : "M6H",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "80 Beaver Avenue, Toronto, ON M6H, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6715864,
+               "lng" : -79.44363070000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6729353802915,
+                  "lng" : -79.44228171970852
+               },
+               "southwest" : {
+                  "lat" : 43.6702374197085,
+                  "lng" : -79.44497968029152
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

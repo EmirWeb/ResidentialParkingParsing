@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "110",
+               "short_name" : "110",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cambridge Avenue",
+               "short_name" : "Cambridge Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Playter Estates",
+               "short_name" : "Playter Estates",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4K 2L7",
+               "short_name" : "M4K 2L7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "110 Cambridge Avenue, Toronto, ON M4K 2L7, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6791725,
+                  "lng" : -79.359483
+               },
+               "southwest" : {
+                  "lat" : 43.67917010000001,
+                  "lng" : -79.3595011
+               }
+            },
+            "location" : {
+               "lat" : 43.6791725,
+               "lng" : -79.3595011
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6805202802915,
+                  "lng" : -79.35814306970849
+               },
+               "southwest" : {
+                  "lat" : 43.6778223197085,
+                  "lng" : -79.36084103029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

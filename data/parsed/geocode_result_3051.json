@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bessborough Drive",
+               "short_name" : "Bessborough Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leaside",
+               "short_name" : "Leaside",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "East York",
+               "short_name" : "East York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4G 3H7",
+               "short_name" : "M4G 3H7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4 Bessborough Drive, East York, ON M4G 3H7, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.697313,
+                  "lng" : -79.36936589999999
+               },
+               "southwest" : {
+                  "lat" : 43.6973091,
+                  "lng" : -79.36938359999999
+               }
+            },
+            "location" : {
+               "lat" : 43.6973091,
+               "lng" : -79.36938359999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6986600302915,
+                  "lng" : -79.36802576970848
+               },
+               "southwest" : {
+                  "lat" : 43.6959620697085,
+                  "lng" : -79.37072373029149
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

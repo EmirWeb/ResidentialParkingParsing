@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "73",
+               "short_name" : "73",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Astoria Avenue",
+               "short_name" : "Astoria Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mount Dennis",
+               "short_name" : "Mount Dennis",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6M 1V7",
+               "short_name" : "M6M 1V7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "73 Astoria Avenue, York, ON M6M 1V7, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6827793,
+                  "lng" : -79.49391419999999
+               },
+               "southwest" : {
+                  "lat" : 43.6827666,
+                  "lng" : -79.49391969999999
+               }
+            },
+            "location" : {
+               "lat" : 43.6827666,
+               "lng" : -79.49391419999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6841219302915,
+                  "lng" : -79.49256796970847
+               },
+               "southwest" : {
+                  "lat" : 43.6814239697085,
+                  "lng" : -79.4952659302915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

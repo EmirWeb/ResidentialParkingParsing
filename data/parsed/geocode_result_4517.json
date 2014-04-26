@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "27",
+               "short_name" : "27",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Browside Avenue",
+               "short_name" : "Browside Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown Toronto",
+               "short_name" : "Midtown Toronto",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M5P 2V1",
+               "short_name" : "M5P 2V1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "27 Browside Avenue, Toronto, ON M5P 2V1, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.69799099999999,
+                  "lng" : -79.41575739999999
+               },
+               "southwest" : {
+                  "lat" : 43.6979872,
+                  "lng" : -79.41577509999999
+               }
+            },
+            "location" : {
+               "lat" : 43.69799099999999,
+               "lng" : -79.41575739999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6993380802915,
+                  "lng" : -79.41441726970848
+               },
+               "southwest" : {
+                  "lat" : 43.6966401197085,
+                  "lng" : -79.4171152302915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

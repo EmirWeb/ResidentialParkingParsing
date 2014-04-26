@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "558",
+               "short_name" : "558",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Beresford Avenue",
+               "short_name" : "Beresford Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Runnymede",
+               "short_name" : "Runnymede",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6S 3C2",
+               "short_name" : "M6S 3C2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "558 Beresford Avenue, York, ON M6S 3C2, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.66067090000001,
+                  "lng" : -79.48164199999999
+               },
+               "southwest" : {
+                  "lat" : 43.6606681,
+                  "lng" : -79.48165999999999
+               }
+            },
+            "location" : {
+               "lat" : 43.6606681,
+               "lng" : -79.48165999999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6620184802915,
+                  "lng" : -79.48030201970849
+               },
+               "southwest" : {
+                  "lat" : 43.6593205197085,
+                  "lng" : -79.4829999802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

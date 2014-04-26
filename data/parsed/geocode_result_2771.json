@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "85",
+               "short_name" : "85",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Belsize Drive",
+               "short_name" : "Belsize Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Davisville",
+               "short_name" : "Davisville",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4S 2H1",
+               "short_name" : "M4S 2H1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "85 Belsize Drive, Toronto, ON M4S 2H1, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.7011245,
+                  "lng" : -79.39292999999999
+               },
+               "southwest" : {
+                  "lat" : 43.7011116,
+                  "lng" : -79.3929349
+               }
+            },
+            "location" : {
+               "lat" : 43.7011116,
+               "lng" : -79.39292999999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.70246703029149,
+                  "lng" : -79.39158346970849
+               },
+               "southwest" : {
+                  "lat" : 43.69976906970849,
+                  "lng" : -79.39428143029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

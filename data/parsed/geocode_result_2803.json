@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "42",
+               "short_name" : "42",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Benlamond Avenue",
+               "short_name" : "Benlamond Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Upper Beaches",
+               "short_name" : "Upper Beaches",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4E",
+               "short_name" : "M4E",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "42 Benlamond Avenue, Toronto, ON M4E, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6813058,
+                  "lng" : -79.30127739999999
+               },
+               "southwest" : {
+                  "lat" : 43.6812929,
+                  "lng" : -79.3012822
+               }
+            },
+            "location" : {
+               "lat" : 43.6813058,
+               "lng" : -79.30127739999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.68264833029149,
+                  "lng" : -79.29993081970851
+               },
+               "southwest" : {
+                  "lat" : 43.67995036970849,
+                  "lng" : -79.30262878029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

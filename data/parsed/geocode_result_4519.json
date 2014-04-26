@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "18",
+               "short_name" : "18",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bruce Park Avenue",
+               "short_name" : "Bruce Park Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sherwood Park",
+               "short_name" : "Sherwood Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4P",
+               "short_name" : "M4P",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "18 Bruce Park Avenue, Toronto, ON M4P, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.7110432,
+                  "lng" : -79.38043639999999
+               },
+               "southwest" : {
+                  "lat" : 43.7110395,
+                  "lng" : -79.38045409999999
+               }
+            },
+            "location" : {
+               "lat" : 43.7110395,
+               "lng" : -79.38045409999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.71239033029151,
+                  "lng" : -79.3790962697085
+               },
+               "southwest" : {
+                  "lat" : 43.70969236970851,
+                  "lng" : -79.3817942302915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

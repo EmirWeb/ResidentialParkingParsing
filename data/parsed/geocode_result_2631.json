@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "315",
+               "short_name" : "315",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Belsize Drive",
+               "short_name" : "Belsize Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mount Pleasant East",
+               "short_name" : "Mount Pleasant East",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4S 1M7",
+               "short_name" : "M4S 1M7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "315 Belsize Drive, Toronto, ON M4S 1M7, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.7037568,
+                  "lng" : -79.3814455
+               },
+               "southwest" : {
+                  "lat" : 43.7037439,
+                  "lng" : -79.3814503
+               }
+            },
+            "location" : {
+               "lat" : 43.7037439,
+               "lng" : -79.3814455
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7050993302915,
+                  "lng" : -79.3800989197085
+               },
+               "southwest" : {
+                  "lat" : 43.7024013697085,
+                  "lng" : -79.38279688029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

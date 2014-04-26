@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "25",
+               "short_name" : "25",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Branstone Road",
+               "short_name" : "Branstone Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fairbank",
+               "short_name" : "Fairbank",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6E 4E3",
+               "short_name" : "M6E 4E3",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "25 Branstone Road, York, ON M6E 4E3, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6916646,
+                  "lng" : -79.45340949999999
+               },
+               "southwest" : {
+                  "lat" : 43.6916606,
+                  "lng" : -79.45342719999999
+               }
+            },
+            "location" : {
+               "lat" : 43.6916646,
+               "lng" : -79.45340949999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6930115802915,
+                  "lng" : -79.45206936970848
+               },
+               "southwest" : {
+                  "lat" : 43.6903136197085,
+                  "lng" : -79.4547673302915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

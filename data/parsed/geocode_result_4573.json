@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "427",
+               "short_name" : "427",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Brunswick Avenue",
+               "short_name" : "Brunswick Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown Toronto",
+               "short_name" : "Midtown Toronto",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M5R 2Z2",
+               "short_name" : "M5R 2Z2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "427 Brunswick Avenue, Toronto, ON M5R 2Z2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.67067950000001,
+               "lng" : -79.4091236
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.67202848029151,
+                  "lng" : -79.40777461970849
+               },
+               "southwest" : {
+                  "lat" : 43.66933051970851,
+                  "lng" : -79.41047258029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

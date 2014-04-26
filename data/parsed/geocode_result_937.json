@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "49",
+               "short_name" : "49",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ascot Avenue",
+               "short_name" : "Ascot Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Earlscourt",
+               "short_name" : "Earlscourt",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6E 1E7",
+               "short_name" : "M6E 1E7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "49 Ascot Avenue, Toronto, ON M6E 1E7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6796567,
+               "lng" : -79.4457206
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6810056802915,
+                  "lng" : -79.44437161970851
+               },
+               "southwest" : {
+                  "lat" : 43.6783077197085,
+                  "lng" : -79.44706958029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "26",
+               "short_name" : "26",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Banff Road",
+               "short_name" : "Banff Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mount Pleasant East",
+               "short_name" : "Mount Pleasant East",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4S 2V6",
+               "short_name" : "M4S 2V6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "26 Banff Road, Toronto, ON M4S 2V6, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.70834869999999,
+                  "lng" : -79.3816174
+               },
+               "southwest" : {
+                  "lat" : 43.7083452,
+                  "lng" : -79.38163519999999
+               }
+            },
+            "location" : {
+               "lat" : 43.7083452,
+               "lng" : -79.38163519999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7096959302915,
+                  "lng" : -79.3802773197085
+               },
+               "southwest" : {
+                  "lat" : 43.7069979697085,
+                  "lng" : -79.3829752802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

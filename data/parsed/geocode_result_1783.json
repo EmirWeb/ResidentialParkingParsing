@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "31",
+               "short_name" : "31",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Balsam Avenue",
+               "short_name" : "Balsam Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "The Beach",
+               "short_name" : "The Beach",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4E 3B5",
+               "short_name" : "M4E 3B5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "31 Balsam Avenue, Toronto, ON M4E 3B5, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6706513,
+                  "lng" : -79.2892846
+               },
+               "southwest" : {
+                  "lat" : 43.6706475,
+                  "lng" : -79.28930219999999
+               }
+            },
+            "location" : {
+               "lat" : 43.6706513,
+               "lng" : -79.2892846
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6719983802915,
+                  "lng" : -79.2879444197085
+               },
+               "southwest" : {
+                  "lat" : 43.6693004197085,
+                  "lng" : -79.2906423802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

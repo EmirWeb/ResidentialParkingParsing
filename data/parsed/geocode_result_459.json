@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "14",
+               "short_name" : "14",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Allenvale Avenue",
+               "short_name" : "Allenvale Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oakwood Village",
+               "short_name" : "Oakwood Village",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6E 2A5",
+               "short_name" : "M6E 2A5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "14 Allenvale Avenue, York, ON M6E 2A5, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6926668,
+                  "lng" : -79.444856
+               },
+               "southwest" : {
+                  "lat" : 43.692654,
+                  "lng" : -79.4448613
+               }
+            },
+            "location" : {
+               "lat" : 43.6926668,
+               "lng" : -79.4448613
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6940093802915,
+                  "lng" : -79.4435096697085
+               },
+               "southwest" : {
+                  "lat" : 43.69131141970851,
+                  "lng" : -79.44620763029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,141 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "56",
+               "short_name" : "56",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Barker Avenue",
+               "short_name" : "Barker Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Woodbine Heights",
+               "short_name" : "Woodbine Heights",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "East York",
+               "short_name" : "East York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4C",
+               "short_name" : "M4C",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "56 Barker Avenue, Toronto, ON M4C, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.69306,
+               "lng" : -79.32237619999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6944089802915,
+                  "lng" : -79.32102721970848
+               },
+               "southwest" : {
+                  "lat" : 43.6917110197085,
+                  "lng" : -79.32372518029149
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "56",
+               "short_name" : "56",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Barker Avenue",
+               "short_name" : "Barker Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rexdale",
+               "short_name" : "Rexdale",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Etobicoke",
+               "short_name" : "Etobicoke",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M9V",
+               "short_name" : "M9V",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "56 Barker Avenue, Etobicoke, ON M9V, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7322963,
+               "lng" : -79.5618463
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7336452802915,
+                  "lng" : -79.5604973197085
+               },
+               "southwest" : {
+                  "lat" : 43.73094731970851,
+                  "lng" : -79.56319528029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

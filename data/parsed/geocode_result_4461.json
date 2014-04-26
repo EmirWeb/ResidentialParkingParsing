@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "124",
+               "short_name" : "124",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Browning Avenue",
+               "short_name" : "Browning Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Riverdale",
+               "short_name" : "Riverdale",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4K 1W4",
+               "short_name" : "M4K 1W4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "124 Browning Avenue, Toronto, ON M4K 1W4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6823182,
+               "lng" : -79.351681
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6836671802915,
+                  "lng" : -79.3503320197085
+               },
+               "southwest" : {
+                  "lat" : 43.6809692197085,
+                  "lng" : -79.35302998029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

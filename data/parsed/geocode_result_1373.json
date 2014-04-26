@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "67",
+               "short_name" : "67",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Auburn Avenue",
+               "short_name" : "Auburn Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Earlscourt",
+               "short_name" : "Earlscourt",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6H 2L8",
+               "short_name" : "M6H 2L8",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "67 Auburn Avenue, Toronto, ON M6H 2L8, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6747748,
+                  "lng" : -79.4453529
+               },
+               "southwest" : {
+                  "lat" : 43.674762,
+                  "lng" : -79.4453584
+               }
+            },
+            "location" : {
+               "lat" : 43.674762,
+               "lng" : -79.4453529
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6761173802915,
+                  "lng" : -79.4440066697085
+               },
+               "southwest" : {
+                  "lat" : 43.6734194197085,
+                  "lng" : -79.44670463029152
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

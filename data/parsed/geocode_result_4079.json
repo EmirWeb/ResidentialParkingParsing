@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "49",
+               "short_name" : "49",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Brock Avenue",
+               "short_name" : "Brock Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Parkdale",
+               "short_name" : "Parkdale",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6K 2L3",
+               "short_name" : "M6K 2L3",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "49 Brock Avenue, Toronto, ON M6K 2L3, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.643292,
+                  "lng" : -79.4330186
+               },
+               "southwest" : {
+                  "lat" : 43.6432884,
+                  "lng" : -79.4330363
+               }
+            },
+            "location" : {
+               "lat" : 43.643292,
+               "lng" : -79.4330186
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6446391802915,
+                  "lng" : -79.43167846970849
+               },
+               "southwest" : {
+                  "lat" : 43.6419412197085,
+                  "lng" : -79.43437643029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

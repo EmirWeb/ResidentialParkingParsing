@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "643",
+               "short_name" : "643",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Broadway Avenue",
+               "short_name" : "Broadway Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leaside",
+               "short_name" : "Leaside",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "East York",
+               "short_name" : "East York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4G",
+               "short_name" : "M4G",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "643 Broadway Avenue, Toronto, ON M4G, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7167933,
+               "lng" : -79.36245199999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7181422802915,
+                  "lng" : -79.36110301970848
+               },
+               "southwest" : {
+                  "lat" : 43.7154443197085,
+                  "lng" : -79.36380098029149
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

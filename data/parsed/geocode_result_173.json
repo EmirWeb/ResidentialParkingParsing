@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "222",
+               "short_name" : "222",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Albany Avenue",
+               "short_name" : "Albany Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown Toronto",
+               "short_name" : "Midtown Toronto",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M5R 3C6",
+               "short_name" : "M5R 3C6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "222 Albany Avenue, Toronto, ON M5R 3C6, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6726876,
+               "lng" : -79.4133274
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.67403658029149,
+                  "lng" : -79.41197841970849
+               },
+               "southwest" : {
+                  "lat" : 43.67133861970849,
+                  "lng" : -79.41467638029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

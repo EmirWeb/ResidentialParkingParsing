@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "138",
+               "short_name" : "138",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Avon Avenue",
+               "short_name" : "Avon Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Harwood",
+               "short_name" : "Harwood",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6N",
+               "short_name" : "M6N",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "138 Avon Avenue, Toronto, ON M6N, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6775734,
+               "lng" : -79.4774901
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6789223802915,
+                  "lng" : -79.4761411197085
+               },
+               "southwest" : {
+                  "lat" : 43.6762244197085,
+                  "lng" : -79.47883908029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

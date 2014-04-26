@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "43",
+               "short_name" : "43",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Burgess Avenue",
+               "short_name" : "Burgess Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Beach Hill",
+               "short_name" : "Beach Hill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4E 1W7",
+               "short_name" : "M4E 1W7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "43 Burgess Avenue, Toronto, ON M4E 1W7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6784265,
+               "lng" : -79.3080863
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6797754802915,
+                  "lng" : -79.30673731970849
+               },
+               "southwest" : {
+                  "lat" : 43.6770775197085,
+                  "lng" : -79.30943528029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

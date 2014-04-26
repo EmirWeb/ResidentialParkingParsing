@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "93",
+               "short_name" : "93",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bernice Crescent",
+               "short_name" : "Bernice Crescent",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rockcliffe - Smythe",
+               "short_name" : "Rockcliffe - Smythe",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6N 1W9",
+               "short_name" : "M6N 1W9",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "93 Bernice Crescent, York, ON M6N 1W9, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6669376,
+               "lng" : -79.4984441
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6682865802915,
+                  "lng" : -79.4970951197085
+               },
+               "southwest" : {
+                  "lat" : 43.6655886197085,
+                  "lng" : -79.49979308029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

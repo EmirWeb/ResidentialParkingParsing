@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "162",
+               "short_name" : "162",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Blythwood Road",
+               "short_name" : "Blythwood Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lawrence Park South",
+               "short_name" : "Lawrence Park South",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4N 1A4",
+               "short_name" : "M4N 1A4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "162 Blythwood Road, Toronto, ON M4N 1A4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7178953,
+               "lng" : -79.3954753
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.71924428029149,
+                  "lng" : -79.39412631970849
+               },
+               "southwest" : {
+                  "lat" : 43.71654631970849,
+                  "lng" : -79.39682428029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "16",
+               "short_name" : "16",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Binswood Avenue",
+               "short_name" : "Binswood Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Woodbine Heights",
+               "short_name" : "Woodbine Heights",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "East York",
+               "short_name" : "East York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4C 3N3",
+               "short_name" : "M4C 3N3",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "16 Binswood Avenue, East York, ON M4C 3N3, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6903833,
+               "lng" : -79.32256869999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6917322802915,
+                  "lng" : -79.32121971970848
+               },
+               "southwest" : {
+                  "lat" : 43.6890343197085,
+                  "lng" : -79.3239176802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

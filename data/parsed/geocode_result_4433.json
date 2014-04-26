@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "140",
+               "short_name" : "140",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Brookside Drive",
+               "short_name" : "Brookside Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Beach Hill",
+               "short_name" : "Beach Hill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4E 2M2",
+               "short_name" : "M4E 2M2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "140 Brookside Drive, Toronto, ON M4E 2M2, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6806864,
+                  "lng" : -79.3061567
+               },
+               "southwest" : {
+                  "lat" : 43.6806825,
+                  "lng" : -79.3061744
+               }
+            },
+            "location" : {
+               "lat" : 43.6806825,
+               "lng" : -79.3061744
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6820334302915,
+                  "lng" : -79.30481656970851
+               },
+               "southwest" : {
+                  "lat" : 43.6793354697085,
+                  "lng" : -79.30751453029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

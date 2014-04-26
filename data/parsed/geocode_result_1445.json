@@ -1,0 +1,161 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "55",
+               "short_name" : "55",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bain Avenue",
+               "short_name" : "Bain Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Riverdale",
+               "short_name" : "Riverdale",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4K",
+               "short_name" : "M4K",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "55 Bain Avenue, Toronto, ON M4K, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.67156139999999,
+                  "lng" : -79.34902679999999
+               },
+               "southwest" : {
+                  "lat" : 43.6715487,
+                  "lng" : -79.3490322
+               }
+            },
+            "location" : {
+               "lat" : 43.6715487,
+               "lng" : -79.34902679999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6729040302915,
+                  "lng" : -79.34768051970849
+               },
+               "southwest" : {
+                  "lat" : 43.6702060697085,
+                  "lng" : -79.3503784802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "55",
+               "short_name" : "55",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bain Avenue",
+               "short_name" : "Bain Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Riverdale",
+               "short_name" : "Riverdale",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4K 1E5",
+               "short_name" : "M4K 1E5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "55 Bain Avenue, Toronto, ON M4K 1E5, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6712289,
+                  "lng" : -79.35051709999999
+               },
+               "southwest" : {
+                  "lat" : 43.6712162,
+                  "lng" : -79.3505225
+               }
+            },
+            "location" : {
+               "lat" : 43.6712162,
+               "lng" : -79.35051709999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.67257153029149,
+                  "lng" : -79.34917081970849
+               },
+               "southwest" : {
+                  "lat" : 43.66987356970849,
+                  "lng" : -79.35186878029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

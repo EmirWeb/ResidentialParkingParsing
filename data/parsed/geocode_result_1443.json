@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "50",
+               "short_name" : "50",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bain Avenue",
+               "short_name" : "Bain Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Riverdale",
+               "short_name" : "Riverdale",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4K 1E5",
+               "short_name" : "M4K 1E5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "50 Bain Avenue, Toronto, ON M4K 1E5, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6711006,
+                  "lng" : -79.35116309999999
+               },
+               "southwest" : {
+                  "lat" : 43.6710879,
+                  "lng" : -79.35116839999999
+               }
+            },
+            "location" : {
+               "lat" : 43.6711006,
+               "lng" : -79.35116839999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6724432302915,
+                  "lng" : -79.34981676970848
+               },
+               "southwest" : {
+                  "lat" : 43.6697452697085,
+                  "lng" : -79.35251473029149
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

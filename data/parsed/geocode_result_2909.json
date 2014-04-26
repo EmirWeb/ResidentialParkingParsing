@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "377",
+               "short_name" : "377",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Beresford Avenue",
+               "short_name" : "Beresford Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Runnymede",
+               "short_name" : "Runnymede",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6S 3B6",
+               "short_name" : "M6S 3B6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "377 Beresford Avenue, Toronto, ON M6S 3B6, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6553603,
+                  "lng" : -79.4795044
+               },
+               "southwest" : {
+                  "lat" : 43.6553564,
+                  "lng" : -79.4795221
+               }
+            },
+            "location" : {
+               "lat" : 43.6553603,
+               "lng" : -79.4795044
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6567073302915,
+                  "lng" : -79.47816426970849
+               },
+               "southwest" : {
+                  "lat" : 43.6540093697085,
+                  "lng" : -79.48086223029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

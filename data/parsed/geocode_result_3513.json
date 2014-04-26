@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "172",
+               "short_name" : "172",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Boulton Avenue",
+               "short_name" : "Boulton Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Riverside",
+               "short_name" : "Riverside",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4M 2J8",
+               "short_name" : "M4M 2J8",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "172 Boulton Avenue, Toronto, ON M4M 2J8, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.664321,
+                  "lng" : -79.348676
+               },
+               "southwest" : {
+                  "lat" : 43.6643172,
+                  "lng" : -79.3486937
+               }
+            },
+            "location" : {
+               "lat" : 43.6643172,
+               "lng" : -79.3486937
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6656680802915,
+                  "lng" : -79.34733586970849
+               },
+               "southwest" : {
+                  "lat" : 43.6629701197085,
+                  "lng" : -79.35003383029149
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

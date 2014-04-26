@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "515",
+               "short_name" : "515",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Broadway Avenue",
+               "short_name" : "Broadway Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leaside",
+               "short_name" : "Leaside",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "East York",
+               "short_name" : "East York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4G 2R8",
+               "short_name" : "M4G 2R8",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "515 Broadway Avenue, East York, ON M4G 2R8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7152391,
+               "lng" : -79.36948960000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.71658808029149,
+                  "lng" : -79.36814061970851
+               },
+               "southwest" : {
+                  "lat" : 43.7138901197085,
+                  "lng" : -79.37083858029152
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "468",
+               "short_name" : "468",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Annette Street",
+               "short_name" : "Annette St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "The Junction",
+               "short_name" : "The Junction",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6P 1S2",
+               "short_name" : "M6P 1S2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "468 Annette Street, Toronto, ON M6P 1S2, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6604553,
+                  "lng" : -79.47823099999999
+               },
+               "southwest" : {
+                  "lat" : 43.66044249999999,
+                  "lng" : -79.4782362
+               }
+            },
+            "location" : {
+               "lat" : 43.6604553,
+               "lng" : -79.4782362
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6617978802915,
+                  "lng" : -79.47688461970849
+               },
+               "southwest" : {
+                  "lat" : 43.6590999197085,
+                  "lng" : -79.47958258029149
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

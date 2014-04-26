@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Birch Tree Crescent",
+               "short_name" : "Birch Tree Crescent",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mount Dennis",
+               "short_name" : "Mount Dennis",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6M",
+               "short_name" : "M6M",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 Birch Tree Crescent, Toronto, ON M6M, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6901347,
+                  "lng" : -79.503525
+               },
+               "southwest" : {
+                  "lat" : 43.69012970000001,
+                  "lng" : -79.50354209999999
+               }
+            },
+            "location" : {
+               "lat" : 43.6901347,
+               "lng" : -79.503525
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6914811802915,
+                  "lng" : -79.50218456970849
+               },
+               "southwest" : {
+                  "lat" : 43.68878321970851,
+                  "lng" : -79.5048825302915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

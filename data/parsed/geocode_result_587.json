@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "20",
+               "short_name" : "20",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Appleton Avenue",
+               "short_name" : "Appleton Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "St. Clair West Village",
+               "short_name" : "St. Clair West Village",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6E 3A4",
+               "short_name" : "M6E 3A4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "20 Appleton Avenue, York, ON M6E 3A4, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6797753,
+                  "lng" : -79.43779789999999
+               },
+               "southwest" : {
+                  "lat" : 43.6797715,
+                  "lng" : -79.43781559999999
+               }
+            },
+            "location" : {
+               "lat" : 43.6797715,
+               "lng" : -79.43781559999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6811223802915,
+                  "lng" : -79.43645776970848
+               },
+               "southwest" : {
+                  "lat" : 43.6784244197085,
+                  "lng" : -79.4391557302915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

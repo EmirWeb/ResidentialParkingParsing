@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "163",
+               "short_name" : "163",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Campbell Avenue",
+               "short_name" : "Campbell Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Junction Triangle",
+               "short_name" : "Junction Triangle",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6P",
+               "short_name" : "M6P",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "163 Campbell Avenue, Toronto, ON M6P, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6620041,
+               "lng" : -79.4482895
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.66335308029149,
+                  "lng" : -79.44694051970849
+               },
+               "southwest" : {
+                  "lat" : 43.66065511970849,
+                  "lng" : -79.44963848029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

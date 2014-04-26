@@ -1,0 +1,161 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "53",
+               "short_name" : "53",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cameron Avenue",
+               "short_name" : "Cameron Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Silverthorn",
+               "short_name" : "Silverthorn",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6M",
+               "short_name" : "M6M",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "53 Cameron Avenue, Toronto, ON M6M, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.690314,
+                  "lng" : -79.46682919999999
+               },
+               "southwest" : {
+                  "lat" : 43.690301,
+                  "lng" : -79.46683349999999
+               }
+            },
+            "location" : {
+               "lat" : 43.690301,
+               "lng" : -79.46682919999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6916564802915,
+                  "lng" : -79.4654823697085
+               },
+               "southwest" : {
+                  "lat" : 43.6889585197085,
+                  "lng" : -79.4681803302915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "53",
+               "short_name" : "53",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cameron Avenue",
+               "short_name" : "Cameron Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lansing",
+               "short_name" : "Lansing",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "North York",
+               "short_name" : "North York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M2N",
+               "short_name" : "M2N",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "53 Cameron Avenue, North York, ON M2N, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.756772,
+                  "lng" : -79.41246289999999
+               },
+               "southwest" : {
+                  "lat" : 43.7567593,
+                  "lng" : -79.4124685
+               }
+            },
+            "location" : {
+               "lat" : 43.7567593,
+               "lng" : -79.41246289999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.75811463029149,
+                  "lng" : -79.41111671970849
+               },
+               "southwest" : {
+                  "lat" : 43.7554166697085,
+                  "lng" : -79.41381468029149
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

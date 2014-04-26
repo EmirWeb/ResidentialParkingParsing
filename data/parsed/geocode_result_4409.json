@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "67",
+               "short_name" : "67",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Brookside Avenue",
+               "short_name" : "Brookside Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lambton",
+               "short_name" : "Lambton",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6S 4G8",
+               "short_name" : "M6S 4G8",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "67 Brookside Avenue, York, ON M6S 4G8, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6619979,
+                  "lng" : -79.4922945
+               },
+               "southwest" : {
+                  "lat" : 43.661994,
+                  "lng" : -79.49231209999999
+               }
+            },
+            "location" : {
+               "lat" : 43.6619979,
+               "lng" : -79.4922945
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6633449302915,
+                  "lng" : -79.49095431970851
+               },
+               "southwest" : {
+                  "lat" : 43.6606469697085,
+                  "lng" : -79.49365228029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "547",
+               "short_name" : "547",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Arlington Avenue",
+               "short_name" : "Arlington Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown Toronto",
+               "short_name" : "Midtown Toronto",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6C 3A6",
+               "short_name" : "M6C 3A6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "547 Arlington Avenue, York, ON M6C 3A6, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6941913,
+                  "lng" : -79.43412080000002
+               },
+               "southwest" : {
+                  "lat" : 43.6941877,
+                  "lng" : -79.4341386
+               }
+            },
+            "location" : {
+               "lat" : 43.6941913,
+               "lng" : -79.43412080000002
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6955384802915,
+                  "lng" : -79.4327807197085
+               },
+               "southwest" : {
+                  "lat" : 43.6928405197085,
+                  "lng" : -79.43547868029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

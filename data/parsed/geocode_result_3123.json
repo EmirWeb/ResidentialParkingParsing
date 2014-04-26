@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "145",
+               "short_name" : "145",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bingham Avenue",
+               "short_name" : "Bingham Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4E",
+               "short_name" : "M4E",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "145 Bingham Avenue, Toronto, ON M4E, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.682234,
+                  "lng" : -79.28568899999999
+               },
+               "southwest" : {
+                  "lat" : 43.6822303,
+                  "lng" : -79.28570669999999
+               }
+            },
+            "location" : {
+               "lat" : 43.682234,
+               "lng" : -79.28568899999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6835811302915,
+                  "lng" : -79.2843488697085
+               },
+               "southwest" : {
+                  "lat" : 43.6808831697085,
+                  "lng" : -79.2870468302915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

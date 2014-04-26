@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "60",
+               "short_name" : "60",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Belvidere Avenue",
+               "short_name" : "Belvidere Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown Toronto",
+               "short_name" : "Midtown Toronto",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6C 1P8",
+               "short_name" : "M6C 1P8",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "60 Belvidere Avenue, York, ON M6C 1P8, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6929947,
+                  "lng" : -79.43989599999999
+               },
+               "southwest" : {
+                  "lat" : 43.6929819,
+                  "lng" : -79.4399013
+               }
+            },
+            "location" : {
+               "lat" : 43.6929947,
+               "lng" : -79.4399013
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6943372802915,
+                  "lng" : -79.43854966970849
+               },
+               "southwest" : {
+                  "lat" : 43.6916393197085,
+                  "lng" : -79.4412476302915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

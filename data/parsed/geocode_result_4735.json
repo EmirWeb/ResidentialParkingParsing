@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "45",
+               "short_name" : "45",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Buttonwood Avenue",
+               "short_name" : "Buttonwood Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mount Dennis",
+               "short_name" : "Mount Dennis",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6M 2J2",
+               "short_name" : "M6M 2J2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "45 Buttonwood Avenue, York, ON M6M 2J2, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6902683,
+                  "lng" : -79.5031101
+               },
+               "southwest" : {
+                  "lat" : 43.6902575,
+                  "lng" : -79.5031209
+               }
+            },
+            "location" : {
+               "lat" : 43.6902575,
+               "lng" : -79.5031101
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6916118802915,
+                  "lng" : -79.5017665197085
+               },
+               "southwest" : {
+                  "lat" : 43.6889139197085,
+                  "lng" : -79.50446448029152
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

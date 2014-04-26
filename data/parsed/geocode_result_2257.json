@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "282",
+               "short_name" : "282",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Beech Avenue",
+               "short_name" : "Beech Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "The Beach",
+               "short_name" : "The Beach",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4E 3J2",
+               "short_name" : "M4E 3J2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "282 Beech Avenue, Toronto, ON M4E 3J2, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6780391,
+                  "lng" : -79.2898333
+               },
+               "southwest" : {
+                  "lat" : 43.6780352,
+                  "lng" : -79.28985089999999
+               }
+            },
+            "location" : {
+               "lat" : 43.6780352,
+               "lng" : -79.28985089999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6793861302915,
+                  "lng" : -79.28849311970848
+               },
+               "southwest" : {
+                  "lat" : 43.67668816970851,
+                  "lng" : -79.2911910802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

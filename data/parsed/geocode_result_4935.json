@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "55",
+               "short_name" : "55",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Campbell Avenue",
+               "short_name" : "Campbell Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Junction Triangle",
+               "short_name" : "Junction Triangle",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6P 3T9",
+               "short_name" : "M6P 3T9",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "55 Campbell Avenue, Toronto, ON M6P 3T9, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.65864149999999,
+                  "lng" : -79.44721559999999
+               },
+               "southwest" : {
+                  "lat" : 43.6586377,
+                  "lng" : -79.44723330000001
+               }
+            },
+            "location" : {
+               "lat" : 43.65864149999999,
+               "lng" : -79.44721559999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6599885802915,
+                  "lng" : -79.4458754697085
+               },
+               "southwest" : {
+                  "lat" : 43.6572906197085,
+                  "lng" : -79.4485734302915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

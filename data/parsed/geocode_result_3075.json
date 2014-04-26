@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "231",
+               "short_name" : "231",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bicknell Avenue",
+               "short_name" : "Bicknell Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Silverthorn",
+               "short_name" : "Silverthorn",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6M 4H2",
+               "short_name" : "M6M 4H2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "231 Bicknell Avenue, York, ON M6M 4H2, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6884867,
+                  "lng" : -79.47660639999999
+               },
+               "southwest" : {
+                  "lat" : 43.68848270000001,
+                  "lng" : -79.476624
+               }
+            },
+            "location" : {
+               "lat" : 43.6884867,
+               "lng" : -79.47660639999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.68983368029151,
+                  "lng" : -79.4752662197085
+               },
+               "southwest" : {
+                  "lat" : 43.68713571970851,
+                  "lng" : -79.47796418029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

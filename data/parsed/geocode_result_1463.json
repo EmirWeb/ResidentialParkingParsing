@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bala Avenue",
+               "short_name" : "Bala Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mount Dennis",
+               "short_name" : "Mount Dennis",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6M 2C9",
+               "short_name" : "M6M 2C9",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "59 Bala Avenue, York, ON M6M 2C9, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6897301,
+                  "lng" : -79.4990509
+               },
+               "southwest" : {
+                  "lat" : 43.68971860000001,
+                  "lng" : -79.4990603
+               }
+            },
+            "location" : {
+               "lat" : 43.6897301,
+               "lng" : -79.4990509
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6910733302915,
+                  "lng" : -79.4977066197085
+               },
+               "southwest" : {
+                  "lat" : 43.6883753697085,
+                  "lng" : -79.50040458029152
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

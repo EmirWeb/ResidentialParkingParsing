@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "627",
+               "short_name" : "627",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Brock Avenue",
+               "short_name" : "Brock Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wallace Emerson",
+               "short_name" : "Wallace Emerson",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6H",
+               "short_name" : "M6H",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "627 Brock Avenue, Toronto, ON M6H, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6597243,
+                  "lng" : -79.43885639999999
+               },
+               "southwest" : {
+                  "lat" : 43.6597207,
+                  "lng" : -79.43887409999999
+               }
+            },
+            "location" : {
+               "lat" : 43.6597243,
+               "lng" : -79.43885639999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6610714802915,
+                  "lng" : -79.43751626970848
+               },
+               "southwest" : {
+                  "lat" : 43.6583735197085,
+                  "lng" : -79.4402142302915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

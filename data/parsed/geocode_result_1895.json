@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "187",
+               "short_name" : "187",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Barker Avenue",
+               "short_name" : "Barker Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Woodbine - Lumsden",
+               "short_name" : "Woodbine - Lumsden",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "East York",
+               "short_name" : "East York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4C 2P4",
+               "short_name" : "M4C 2P4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "187 Barker Avenue, East York, ON M4C 2P4, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6950352,
+                  "lng" : -79.31315920000002
+               },
+               "southwest" : {
+                  "lat" : 43.6950226,
+                  "lng" : -79.313165
+               }
+            },
+            "location" : {
+               "lat" : 43.6950226,
+               "lng" : -79.31315920000002
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6963778802915,
+                  "lng" : -79.3118131197085
+               },
+               "southwest" : {
+                  "lat" : 43.6936799197085,
+                  "lng" : -79.31451108029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

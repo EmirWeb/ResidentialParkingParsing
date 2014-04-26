@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "750",
+               "short_name" : "750",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Adelaide Street West",
+               "short_name" : "Adelaide St W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Niagara",
+               "short_name" : "Niagara",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6J 2L3",
+               "short_name" : "M6J 2L3",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "750 Adelaide Street West, Toronto, ON M6J 2L3, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6441718,
+                  "lng" : -79.4083224
+               },
+               "southwest" : {
+                  "lat" : 43.6441589,
+                  "lng" : -79.40832730000001
+               }
+            },
+            "location" : {
+               "lat" : 43.6441718,
+               "lng" : -79.40832730000001
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.64551433029149,
+                  "lng" : -79.40697586970852
+               },
+               "southwest" : {
+                  "lat" : 43.64281636970849,
+                  "lng" : -79.40967383029152
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

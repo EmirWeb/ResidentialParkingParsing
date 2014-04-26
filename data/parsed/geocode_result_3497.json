@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "117",
+               "short_name" : "117",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Boultbee Avenue",
+               "short_name" : "Boultbee Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Riverdale",
+               "short_name" : "Riverdale",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4J 1B2",
+               "short_name" : "M4J 1B2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "117 Boultbee Avenue, Toronto, ON M4J 1B2, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6736836,
+                  "lng" : -79.3345276
+               },
+               "southwest" : {
+                  "lat" : 43.6736716,
+                  "lng" : -79.33453539999999
+               }
+            },
+            "location" : {
+               "lat" : 43.6736716,
+               "lng" : -79.3345276
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.67502658029149,
+                  "lng" : -79.33318251970849
+               },
+               "southwest" : {
+                  "lat" : 43.67232861970849,
+                  "lng" : -79.33588048029149
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

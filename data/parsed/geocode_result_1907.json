@@ -1,0 +1,161 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Barker Avenue",
+               "short_name" : "Barker Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Woodbine Heights",
+               "short_name" : "Woodbine Heights",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "East York",
+               "short_name" : "East York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4C",
+               "short_name" : "M4C",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "59 Barker Avenue, Toronto, ON M4C, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.69299729999999,
+                  "lng" : -79.3219211
+               },
+               "southwest" : {
+                  "lat" : 43.6929844,
+                  "lng" : -79.32192599999999
+               }
+            },
+            "location" : {
+               "lat" : 43.6929844,
+               "lng" : -79.3219211
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6943398302915,
+                  "lng" : -79.3205745697085
+               },
+               "southwest" : {
+                  "lat" : 43.6916418697085,
+                  "lng" : -79.3232725302915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "59",
+               "short_name" : "59",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Barker Avenue",
+               "short_name" : "Barker Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rexdale",
+               "short_name" : "Rexdale",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Etobicoke",
+               "short_name" : "Etobicoke",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M9V",
+               "short_name" : "M9V",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "59 Barker Avenue, Etobicoke, ON M9V, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.7323219,
+                  "lng" : -79.56087669999999
+               },
+               "southwest" : {
+                  "lat" : 43.7323092,
+                  "lng" : -79.5608824
+               }
+            },
+            "location" : {
+               "lat" : 43.7323092,
+               "lng" : -79.56087669999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7336645302915,
+                  "lng" : -79.55953056970849
+               },
+               "southwest" : {
+                  "lat" : 43.7309665697085,
+                  "lng" : -79.56222853029149
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

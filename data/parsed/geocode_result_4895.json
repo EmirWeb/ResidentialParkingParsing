@@ -1,0 +1,151 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "98",
+               "short_name" : "98",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cameron Avenue",
+               "short_name" : "Cameron Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Silverthorn",
+               "short_name" : "Silverthorn",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6M",
+               "short_name" : "M6M",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "98 Cameron Avenue, Toronto, ON M6M, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6903661,
+                  "lng" : -79.46893059999999
+               },
+               "southwest" : {
+                  "lat" : 43.6903544,
+                  "lng" : -79.4689396
+               }
+            },
+            "location" : {
+               "lat" : 43.6903661,
+               "lng" : -79.46893059999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.69170923029149,
+                  "lng" : -79.4675861197085
+               },
+               "southwest" : {
+                  "lat" : 43.6890112697085,
+                  "lng" : -79.47028408029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "98",
+               "short_name" : "98",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cameron Avenue",
+               "short_name" : "Cameron Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lansing",
+               "short_name" : "Lansing",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "North York",
+               "short_name" : "North York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M2N 1E3",
+               "short_name" : "M2N 1E3",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "98 Cameron Avenue, North York, ON M2N 1E3, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7563699,
+               "lng" : -79.4148131
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.75771888029149,
+                  "lng" : -79.41346411970849
+               },
+               "southwest" : {
+                  "lat" : 43.75502091970849,
+                  "lng" : -79.41616208029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "331",
+               "short_name" : "331",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ashdale Avenue",
+               "short_name" : "Ashdale Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leslieville",
+               "short_name" : "Leslieville",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4L",
+               "short_name" : "M4L",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "331 Ashdale Avenue, Toronto, ON M4L, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6738951,
+               "lng" : -79.32232239999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6752440802915,
+                  "lng" : -79.32097341970848
+               },
+               "southwest" : {
+                  "lat" : 43.6725461197085,
+                  "lng" : -79.3236713802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

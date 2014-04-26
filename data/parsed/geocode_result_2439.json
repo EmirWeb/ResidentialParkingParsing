@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "14",
+               "short_name" : "14",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bellhaven Road",
+               "short_name" : "Bellhaven Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Beach Hill",
+               "short_name" : "Beach Hill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4L",
+               "short_name" : "M4L",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "14 Bellhaven Road, Toronto, ON M4L, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6752775,
+                  "lng" : -79.3127861
+               },
+               "southwest" : {
+                  "lat" : 43.6752731,
+                  "lng" : -79.3128036
+               }
+            },
+            "location" : {
+               "lat" : 43.6752731,
+               "lng" : -79.3128036
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.67662428029151,
+                  "lng" : -79.31144586970848
+               },
+               "southwest" : {
+                  "lat" : 43.67392631970851,
+                  "lng" : -79.3141438302915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

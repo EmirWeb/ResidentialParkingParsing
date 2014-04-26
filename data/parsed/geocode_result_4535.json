@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "52",
+               "short_name" : "52",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Brumell Avenue",
+               "short_name" : "Brumell Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lambton Baby Point",
+               "short_name" : "Lambton Baby Point",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6S 4G6",
+               "short_name" : "M6S 4G6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "52 Brumell Avenue, York, ON M6S 4G6, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6592044,
+                  "lng" : -79.4911056
+               },
+               "southwest" : {
+                  "lat" : 43.6592008,
+                  "lng" : -79.49112339999999
+               }
+            },
+            "location" : {
+               "lat" : 43.6592008,
+               "lng" : -79.49112339999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6605515802915,
+                  "lng" : -79.48976551970848
+               },
+               "southwest" : {
+                  "lat" : 43.6578536197085,
+                  "lng" : -79.49246348029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

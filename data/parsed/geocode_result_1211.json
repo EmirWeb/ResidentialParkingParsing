@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "212",
+               "short_name" : "212",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Atlas Avenue",
+               "short_name" : "Atlas Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown Toronto",
+               "short_name" : "Midtown Toronto",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6C 3P6",
+               "short_name" : "M6C 3P6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "212 Atlas Avenue, York, ON M6C 3P6, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6877404,
+               "lng" : -79.4337525
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6890893802915,
+                  "lng" : -79.43240351970849
+               },
+               "southwest" : {
+                  "lat" : 43.6863914197085,
+                  "lng" : -79.43510148029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

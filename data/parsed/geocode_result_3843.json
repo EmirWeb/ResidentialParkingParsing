@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "265",
+               "short_name" : "265",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Briar Hill Avenue",
+               "short_name" : "Briar Hill Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lawrence Park South",
+               "short_name" : "Lawrence Park South",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4R 1J2",
+               "short_name" : "M4R 1J2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "265 Briar Hill Avenue, Toronto, ON M4R 1J2, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.7118806,
+                  "lng" : -79.4082653
+               },
+               "southwest" : {
+                  "lat" : 43.7118678,
+                  "lng" : -79.4082703
+               }
+            },
+            "location" : {
+               "lat" : 43.7118678,
+               "lng" : -79.4082653
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.71322318029151,
+                  "lng" : -79.40691881970849
+               },
+               "southwest" : {
+                  "lat" : 43.71052521970851,
+                  "lng" : -79.4096167802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

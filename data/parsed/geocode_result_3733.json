@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Braeside Road",
+               "short_name" : "Braeside Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wanless Park",
+               "short_name" : "Wanless Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "North York",
+               "short_name" : "North York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4N 1X7",
+               "short_name" : "M4N 1X7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "22 Braeside Road, North York, ON M4N 1X7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.73052209999999,
+               "lng" : -79.39350209999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7318710802915,
+                  "lng" : -79.39215311970848
+               },
+               "southwest" : {
+                  "lat" : 43.7291731197085,
+                  "lng" : -79.39485108029149
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

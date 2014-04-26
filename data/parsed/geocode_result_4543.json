@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "327",
+               "short_name" : "327",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Brunswick Avenue",
+               "short_name" : "Brunswick Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown Toronto",
+               "short_name" : "Midtown Toronto",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M5R 2Z1",
+               "short_name" : "M5R 2Z1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "327 Brunswick Avenue, Toronto, ON M5R 2Z1, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6668576,
+                  "lng" : -79.40780810000001
+               },
+               "southwest" : {
+                  "lat" : 43.6668539,
+                  "lng" : -79.40782580000001
+               }
+            },
+            "location" : {
+               "lat" : 43.6668576,
+               "lng" : -79.40780810000001
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6682047302915,
+                  "lng" : -79.40646796970852
+               },
+               "southwest" : {
+                  "lat" : 43.6655067697085,
+                  "lng" : -79.40916593029152
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

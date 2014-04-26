@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "53",
+               "short_name" : "53",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Amroth Avenue",
+               "short_name" : "Amroth Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Woodbine - Lumsden",
+               "short_name" : "Woodbine - Lumsden",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "East York",
+               "short_name" : "East York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4C 4H3",
+               "short_name" : "M4C 4H3",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "53 Amroth Avenue, Toronto, ON M4C 4H3, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6850685,
+               "lng" : -79.31113089999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6864174802915,
+                  "lng" : -79.3097819197085
+               },
+               "southwest" : {
+                  "lat" : 43.6837195197085,
+                  "lng" : -79.31247988029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

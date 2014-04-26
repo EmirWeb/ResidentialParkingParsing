@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "135",
+               "short_name" : "135",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bowie Avenue",
+               "short_name" : "Bowie Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Briar Hill - Belgravia",
+               "short_name" : "Briar Hill - Belgravia",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6E 2R1",
+               "short_name" : "M6E 2R1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "135 Bowie Avenue, York, ON M6E 2R1, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6961676,
+                  "lng" : -79.45740789999999
+               },
+               "southwest" : {
+                  "lat" : 43.6961549,
+                  "lng" : -79.4574135
+               }
+            },
+            "location" : {
+               "lat" : 43.6961549,
+               "lng" : -79.45740789999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6975102302915,
+                  "lng" : -79.45606171970849
+               },
+               "southwest" : {
+                  "lat" : 43.6948122697085,
+                  "lng" : -79.45875968029149
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

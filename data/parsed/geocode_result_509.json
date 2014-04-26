@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "42",
+               "short_name" : "42",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Amelia Street",
+               "short_name" : "Amelia St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4X 1E1",
+               "short_name" : "M4X 1E1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "42 Amelia Street, Toronto, ON M4X 1E1, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6675942,
+                  "lng" : -79.3677033
+               },
+               "southwest" : {
+                  "lat" : 43.66758160000001,
+                  "lng" : -79.36770899999999
+               }
+            },
+            "location" : {
+               "lat" : 43.6675942,
+               "lng" : -79.36770899999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6689368802915,
+                  "lng" : -79.36635716970849
+               },
+               "southwest" : {
+                  "lat" : 43.6662389197085,
+                  "lng" : -79.3690551302915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

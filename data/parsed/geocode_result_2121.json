@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "19",
+               "short_name" : "19",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Battenberg Avenue",
+               "short_name" : "Battenberg Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Upper Beaches",
+               "short_name" : "Upper Beaches",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4L 1J8",
+               "short_name" : "M4L 1J8",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "19 Battenberg Avenue, Toronto, ON M4L 1J8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6672969,
+               "lng" : -79.3158021
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.66864588029149,
+                  "lng" : -79.3144531197085
+               },
+               "southwest" : {
+                  "lat" : 43.66594791970849,
+                  "lng" : -79.31715108029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

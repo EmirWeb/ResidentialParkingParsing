@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "221",
+               "short_name" : "221",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Broadway Avenue",
+               "short_name" : "Broadway Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Sherwood Park",
+               "short_name" : "Sherwood Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4P 1V9",
+               "short_name" : "M4P 1V9",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "221 Broadway Avenue, Toronto, ON M4P 1V9, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7116482,
+               "lng" : -79.3879024
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7129971802915,
+                  "lng" : -79.38655341970849
+               },
+               "southwest" : {
+                  "lat" : 43.7102992197085,
+                  "lng" : -79.38925138029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

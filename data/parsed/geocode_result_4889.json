@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "67",
+               "short_name" : "67",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cameo Crescent",
+               "short_name" : "Cameo Crescent",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rockcliffe - Smythe",
+               "short_name" : "Rockcliffe - Smythe",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6N",
+               "short_name" : "M6N",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "67 Cameo Crescent, Toronto, ON M6N, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6771117,
+                  "lng" : -79.49341059999999
+               },
+               "southwest" : {
+                  "lat" : 43.67710779999999,
+                  "lng" : -79.4934282
+               }
+            },
+            "location" : {
+               "lat" : 43.67710779999999,
+               "lng" : -79.4934282
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6784587302915,
+                  "lng" : -79.49207041970848
+               },
+               "southwest" : {
+                  "lat" : 43.6757607697085,
+                  "lng" : -79.49476838029149
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

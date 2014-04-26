@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "153",
+               "short_name" : "153",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Brookdale Avenue",
+               "short_name" : "Brookdale Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bedford Park",
+               "short_name" : "Bedford Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M5M 1P5",
+               "short_name" : "M5M 1P5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "153 Brookdale Avenue, Toronto, ON M5M 1P5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.72882,
+               "lng" : -79.40827179999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7301689802915,
+                  "lng" : -79.4069228197085
+               },
+               "southwest" : {
+                  "lat" : 43.7274710197085,
+                  "lng" : -79.4096207802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

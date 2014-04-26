@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "61",
+               "short_name" : "61",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Brownville Avenue",
+               "short_name" : "Brownville Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mount Dennis",
+               "short_name" : "Mount Dennis",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6N 4L2",
+               "short_name" : "M6N 4L2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "61 Brownville Avenue, York, ON M6N 4L2, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6854257,
+                  "lng" : -79.48445339999999
+               },
+               "southwest" : {
+                  "lat" : 43.6854147,
+                  "lng" : -79.48446389999999
+               }
+            },
+            "location" : {
+               "lat" : 43.6854257,
+               "lng" : -79.48445339999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.68676918029149,
+                  "lng" : -79.4831096697085
+               },
+               "southwest" : {
+                  "lat" : 43.68407121970849,
+                  "lng" : -79.4858076302915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "144",
+               "short_name" : "144",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bastedo Avenue",
+               "short_name" : "Bastedo Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Danforth",
+               "short_name" : "East Danforth",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4C 3N1",
+               "short_name" : "M4C 3N1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "144 Bastedo Avenue, Toronto, ON M4C 3N1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6833538,
+               "lng" : -79.3189927
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6847027802915,
+                  "lng" : -79.31764371970849
+               },
+               "southwest" : {
+                  "lat" : 43.6820048197085,
+                  "lng" : -79.32034168029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "98",
+               "short_name" : "98",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alexandra Boulevard",
+               "short_name" : "Alexandra Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lytton Park",
+               "short_name" : "Lytton Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4R 1M2",
+               "short_name" : "M4R 1M2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "98 Alexandra Boulevard, Toronto, ON M4R 1M2, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.7162469,
+                  "lng" : -79.4056997
+               },
+               "southwest" : {
+                  "lat" : 43.7162341,
+                  "lng" : -79.40570480000001
+               }
+            },
+            "location" : {
+               "lat" : 43.7162469,
+               "lng" : -79.40570480000001
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.71758948029149,
+                  "lng" : -79.40435326970851
+               },
+               "southwest" : {
+                  "lat" : 43.7148915197085,
+                  "lng" : -79.40705123029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

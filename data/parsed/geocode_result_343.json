@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "195",
+               "short_name" : "195",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Albertus Avenue",
+               "short_name" : "Albertus Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lytton Park",
+               "short_name" : "Lytton Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4R 1J7",
+               "short_name" : "M4R 1J7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "195 Albertus Avenue, Toronto, ON M4R 1J7, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.7133691,
+                  "lng" : -79.40567679999999
+               },
+               "southwest" : {
+                  "lat" : 43.7133563,
+                  "lng" : -79.4056817
+               }
+            },
+            "location" : {
+               "lat" : 43.7133563,
+               "lng" : -79.40567679999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7147116802915,
+                  "lng" : -79.4043302697085
+               },
+               "southwest" : {
+                  "lat" : 43.7120137197085,
+                  "lng" : -79.40702823029152
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

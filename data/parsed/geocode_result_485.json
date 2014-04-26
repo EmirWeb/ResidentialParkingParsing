@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alpine Avenue",
+               "short_name" : "Alpine Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Junction Triangle",
+               "short_name" : "Junction Triangle",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6P 3Z7",
+               "short_name" : "M6P 3Z7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "5 Alpine Avenue, Toronto, ON M6P 3Z7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6636636,
+               "lng" : -79.45526819999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6650125802915,
+                  "lng" : -79.45391921970848
+               },
+               "southwest" : {
+                  "lat" : 43.6623146197085,
+                  "lng" : -79.4566171802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

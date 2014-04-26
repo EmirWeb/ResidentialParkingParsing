@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "278",
+               "short_name" : "278",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Beech Avenue",
+               "short_name" : "Beech Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "The Beach",
+               "short_name" : "The Beach",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4E 3J2",
+               "short_name" : "M4E 3J2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "278 Beech Avenue, Toronto, ON M4E 3J2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6778939,
+               "lng" : -79.28998340000001
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6792428802915,
+                  "lng" : -79.28863441970852
+               },
+               "southwest" : {
+                  "lat" : 43.6765449197085,
+                  "lng" : -79.29133238029152
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

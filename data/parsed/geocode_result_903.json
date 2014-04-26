@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "419",
+               "short_name" : "419",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Armadale Avenue",
+               "short_name" : "Armadale Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Runnymede",
+               "short_name" : "Runnymede",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6S 3X7",
+               "short_name" : "M6S 3X7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "419 Armadale Avenue, Toronto, ON M6S 3X7, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6554582,
+                  "lng" : -79.4857782
+               },
+               "southwest" : {
+                  "lat" : 43.6554545,
+                  "lng" : -79.4857959
+               }
+            },
+            "location" : {
+               "lat" : 43.6554582,
+               "lng" : -79.4857782
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6568053302915,
+                  "lng" : -79.48443806970849
+               },
+               "southwest" : {
+                  "lat" : 43.6541073697085,
+                  "lng" : -79.48713603029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "82",
+               "short_name" : "82",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Aldwych Avenue",
+               "short_name" : "Aldwych Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Old East York",
+               "short_name" : "Old East York",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "East York",
+               "short_name" : "East York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4J 1X6",
+               "short_name" : "M4J 1X6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "82 Aldwych Avenue, East York, ON M4J 1X6, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6844261,
+               "lng" : -79.34316149999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6857750802915,
+                  "lng" : -79.34181251970848
+               },
+               "southwest" : {
+                  "lat" : 43.6830771197085,
+                  "lng" : -79.3445104802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

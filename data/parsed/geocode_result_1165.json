@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "158",
+               "short_name" : "158",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Atlas Avenue",
+               "short_name" : "Atlas Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown Toronto",
+               "short_name" : "Midtown Toronto",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6C 3P4",
+               "short_name" : "M6C 3P4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "158 Atlas Avenue, York, ON M6C 3P4, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6859838,
+                  "lng" : -79.4328462
+               },
+               "southwest" : {
+                  "lat" : 43.68598,
+                  "lng" : -79.4328639
+               }
+            },
+            "location" : {
+               "lat" : 43.68598,
+               "lng" : -79.4328639
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6873308802915,
+                  "lng" : -79.43150606970849
+               },
+               "southwest" : {
+                  "lat" : 43.6846329197085,
+                  "lng" : -79.43420403029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

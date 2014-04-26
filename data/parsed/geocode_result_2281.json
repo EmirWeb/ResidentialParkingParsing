@@ -1,0 +1,161 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "40",
+               "short_name" : "40",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Beechwood Avenue",
+               "short_name" : "Beechwood Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "York Mills",
+               "short_name" : "York Mills",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "North York",
+               "short_name" : "North York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M2L 1J3",
+               "short_name" : "M2L 1J3",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "40 Beechwood Avenue, North York, ON M2L 1J3, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.7445485,
+                  "lng" : -79.3958983
+               },
+               "southwest" : {
+                  "lat" : 43.7445357,
+                  "lng" : -79.39590339999999
+               }
+            },
+            "location" : {
+               "lat" : 43.7445485,
+               "lng" : -79.39590339999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7458910802915,
+                  "lng" : -79.39455186970849
+               },
+               "southwest" : {
+                  "lat" : 43.7431931197085,
+                  "lng" : -79.3972498302915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "40",
+               "short_name" : "40",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Beechwood Avenue",
+               "short_name" : "Beechwood Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rockcliffe - Smythe",
+               "short_name" : "Rockcliffe - Smythe",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6N 4S9",
+               "short_name" : "M6N 4S9",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "40 Beechwood Avenue, York, ON M6N 4S9, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6801709,
+                  "lng" : -79.49389149999999
+               },
+               "southwest" : {
+                  "lat" : 43.680167,
+                  "lng" : -79.4939091
+               }
+            },
+            "location" : {
+               "lat" : 43.680167,
+               "lng" : -79.4939091
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6815179302915,
+                  "lng" : -79.49255131970848
+               },
+               "southwest" : {
+                  "lat" : 43.6788199697085,
+                  "lng" : -79.49524928029149
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "969",
+               "short_name" : "969",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Broadview Avenue",
+               "short_name" : "Broadview Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Broadview North",
+               "short_name" : "Broadview North",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "East York",
+               "short_name" : "East York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4K 2R9",
+               "short_name" : "M4K 2R9",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "969 Broadview Avenue, East York, ON M4K 2R9, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6831992,
+               "lng" : -79.35691949999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6845481802915,
+                  "lng" : -79.35557051970849
+               },
+               "southwest" : {
+                  "lat" : 43.6818502197085,
+                  "lng" : -79.3582684802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

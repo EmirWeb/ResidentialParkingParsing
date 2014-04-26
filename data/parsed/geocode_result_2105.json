@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "897",
+               "short_name" : "897",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bathurst Street",
+               "short_name" : "Bathurst St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown Toronto",
+               "short_name" : "Midtown Toronto",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M5R 3G4",
+               "short_name" : "M5R 3G4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "897 Bathurst Street, Toronto, ON M5R 3G4, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6685994,
+                  "lng" : -79.4125263
+               },
+               "southwest" : {
+                  "lat" : 43.6685958,
+                  "lng" : -79.41254409999999
+               }
+            },
+            "location" : {
+               "lat" : 43.6685994,
+               "lng" : -79.4125263
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6699465802915,
+                  "lng" : -79.41118621970848
+               },
+               "southwest" : {
+                  "lat" : 43.6672486197085,
+                  "lng" : -79.41388418029149
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

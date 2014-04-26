@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "219",
+               "short_name" : "219",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Belgravia Avenue",
+               "short_name" : "Belgravia Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Belgravia",
+               "short_name" : "Belgravia",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6E 2M8",
+               "short_name" : "M6E 2M8",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "219 Belgravia Avenue, York, ON M6E 2M8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6975141,
+               "lng" : -79.4488573
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6988630802915,
+                  "lng" : -79.44750831970849
+               },
+               "southwest" : {
+                  "lat" : 43.6961651197085,
+                  "lng" : -79.4502062802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

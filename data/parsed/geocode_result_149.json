@@ -1,0 +1,163 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "184",
+               "short_name" : "184",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Albany Avenue",
+               "short_name" : "Albany Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown Toronto",
+               "short_name" : "Midtown Toronto",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M5R 3C6",
+               "short_name" : "M5R 3C6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "184 Albany Avenue, Toronto, ON M5R 3C6, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6716335,
+                  "lng" : -79.4127232
+               },
+               "southwest" : {
+                  "lat" : 43.6716299,
+                  "lng" : -79.412741
+               }
+            },
+            "location" : {
+               "lat" : 43.6716299,
+               "lng" : -79.412741
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6729806802915,
+                  "lng" : -79.4113831197085
+               },
+               "southwest" : {
+                  "lat" : 43.6702827197085,
+                  "lng" : -79.41408108029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "184",
+               "short_name" : "184",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Albany Avenue",
+               "short_name" : "Albany Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown Toronto",
+               "short_name" : "Midtown Toronto",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M5R",
+               "short_name" : "M5R",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "184 Albany Avenue, Toronto, ON M5R, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6704579,
+                  "lng" : -79.41225419999999
+               },
+               "southwest" : {
+                  "lat" : 43.67045419999999,
+                  "lng" : -79.41227190000001
+               }
+            },
+            "location" : {
+               "lat" : 43.67045419999999,
+               "lng" : -79.41227190000001
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.67180503029149,
+                  "lng" : -79.41091406970851
+               },
+               "southwest" : {
+                  "lat" : 43.6691070697085,
+                  "lng" : -79.41361203029152
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

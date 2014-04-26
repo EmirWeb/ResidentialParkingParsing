@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "52",
+               "short_name" : "52",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Amsterdam Avenue",
+               "short_name" : "Amsterdam Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "O'Connor - Parkview",
+               "short_name" : "O'Connor - Parkview",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "East York",
+               "short_name" : "East York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4B 2C1",
+               "short_name" : "M4B 2C1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "52 Amsterdam Avenue, East York, ON M4B 2C1, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.7144865,
+                  "lng" : -79.3018998
+               },
+               "southwest" : {
+                  "lat" : 43.7144738,
+                  "lng" : -79.3019051
+               }
+            },
+            "location" : {
+               "lat" : 43.7144865,
+               "lng" : -79.3019051
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7158291302915,
+                  "lng" : -79.3005534697085
+               },
+               "southwest" : {
+                  "lat" : 43.7131311697085,
+                  "lng" : -79.30325143029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

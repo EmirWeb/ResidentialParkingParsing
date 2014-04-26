@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "65",
+               "short_name" : "65",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Boustead Avenue",
+               "short_name" : "Boustead Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "High Park-Swansea",
+               "short_name" : "High Park-Swansea",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6R 1Y9",
+               "short_name" : "M6R 1Y9",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "65 Boustead Avenue, Toronto, ON M6R 1Y9, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6527674,
+               "lng" : -79.45481289999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.65411638029151,
+                  "lng" : -79.45346391970848
+               },
+               "southwest" : {
+                  "lat" : 43.65141841970851,
+                  "lng" : -79.4561618802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

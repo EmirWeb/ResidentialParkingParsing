@@ -1,0 +1,161 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "169",
+               "short_name" : "169",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Balsam Avenue",
+               "short_name" : "Balsam Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "The Beach",
+               "short_name" : "The Beach",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4E",
+               "short_name" : "M4E",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "169 Balsam Avenue, Toronto, ON M4E, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6762422,
+                  "lng" : -79.2912954
+               },
+               "southwest" : {
+                  "lat" : 43.6762326,
+                  "lng" : -79.29130809999999
+               }
+            },
+            "location" : {
+               "lat" : 43.6762326,
+               "lng" : -79.2912954
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.67758638029149,
+                  "lng" : -79.28995276970849
+               },
+               "southwest" : {
+                  "lat" : 43.67488841970849,
+                  "lng" : -79.2926507302915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "169",
+               "short_name" : "169",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Balsam Avenue",
+               "short_name" : "Balsam Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "The Beach",
+               "short_name" : "The Beach",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4E 3C1",
+               "short_name" : "M4E 3C1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "169 Balsam Avenue, Toronto, ON M4E 3C1, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6775138,
+                  "lng" : -79.2905344
+               },
+               "southwest" : {
+                  "lat" : 43.677513,
+                  "lng" : -79.2905528
+               }
+            },
+            "location" : {
+               "lat" : 43.6775138,
+               "lng" : -79.2905344
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6788623802915,
+                  "lng" : -79.2891946197085
+               },
+               "southwest" : {
+                  "lat" : 43.6761644197085,
+                  "lng" : -79.2918925802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "104",
+               "short_name" : "104",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bartlett Avenue",
+               "short_name" : "Bartlett Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dovercourt Park",
+               "short_name" : "Dovercourt Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6H 3E8",
+               "short_name" : "M6H 3E8",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "104 Bartlett Avenue, Toronto, ON M6H 3E8, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6634193,
+                  "lng" : -79.43412649999999
+               },
+               "southwest" : {
+                  "lat" : 43.66341569999999,
+                  "lng" : -79.4341443
+               }
+            },
+            "location" : {
+               "lat" : 43.66341569999999,
+               "lng" : -79.4341443
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6647664802915,
+                  "lng" : -79.43278641970849
+               },
+               "southwest" : {
+                  "lat" : 43.6620685197085,
+                  "lng" : -79.43548438029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

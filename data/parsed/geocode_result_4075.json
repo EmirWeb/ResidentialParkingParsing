@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "5",
+               "short_name" : "5",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Brock Avenue",
+               "short_name" : "Brock Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Parkdale",
+               "short_name" : "Parkdale",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6K 2K6",
+               "short_name" : "M6K 2K6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "5 Brock Avenue, Toronto, ON M6K 2K6, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6420041,
+               "lng" : -79.43234540000002
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6433530802915,
+                  "lng" : -79.43099641970852
+               },
+               "southwest" : {
+                  "lat" : 43.64065511970851,
+                  "lng" : -79.43369438029153
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

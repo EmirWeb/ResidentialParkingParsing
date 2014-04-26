@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "72",
+               "short_name" : "72",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cairns Avenue",
+               "short_name" : "Cairns Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Upper Beaches",
+               "short_name" : "Upper Beaches",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4L 1X5",
+               "short_name" : "M4L 1X5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "72 Cairns Avenue, Toronto, ON M4L 1X5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6715302,
+               "lng" : -79.31644319999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6728791802915,
+                  "lng" : -79.31509421970848
+               },
+               "southwest" : {
+                  "lat" : 43.6701812197085,
+                  "lng" : -79.31779218029149
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "20",
+               "short_name" : "20",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Cardinal Place",
+               "short_name" : "Cardinal Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "North Toronto",
+               "short_name" : "North Toronto",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4N",
+               "short_name" : "M4N",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "20 Cardinal Place, Toronto, ON M4N, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.7265502,
+                  "lng" : -79.3990932
+               },
+               "southwest" : {
+                  "lat" : 43.7265464,
+                  "lng" : -79.3991109
+               }
+            },
+            "location" : {
+               "lat" : 43.7265464,
+               "lng" : -79.3991109
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7278972802915,
+                  "lng" : -79.39775306970849
+               },
+               "southwest" : {
+                  "lat" : 43.72519931970851,
+                  "lng" : -79.40045103029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

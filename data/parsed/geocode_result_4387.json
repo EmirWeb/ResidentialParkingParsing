@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "57",
+               "short_name" : "57",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Brookmount Road",
+               "short_name" : "Brookmount Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "The Beach Triangle",
+               "short_name" : "The Beach Triangle",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4L 3N2",
+               "short_name" : "M4L 3N2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "57 Brookmount Road, Toronto, ON M4L 3N2, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6712128,
+                  "lng" : -79.309275
+               },
+               "southwest" : {
+                  "lat" : 43.671209,
+                  "lng" : -79.3092927
+               }
+            },
+            "location" : {
+               "lat" : 43.6712128,
+               "lng" : -79.309275
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6725598802915,
+                  "lng" : -79.30793486970849
+               },
+               "southwest" : {
+                  "lat" : 43.6698619197085,
+                  "lng" : -79.31063283029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

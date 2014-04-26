@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "393",
+               "short_name" : "393",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Caledonia Road",
+               "short_name" : "Caledonia Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fairbank",
+               "short_name" : "Fairbank",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6E 4T9",
+               "short_name" : "M6E 4T9",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "393 Caledonia Road, York, ON M6E 4T9, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6871065,
+               "lng" : -79.4595511
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6884554802915,
+                  "lng" : -79.45820211970849
+               },
+               "southwest" : {
+                  "lat" : 43.6857575197085,
+                  "lng" : -79.46090008029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

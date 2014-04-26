@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "19",
+               "short_name" : "19",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alton Avenue",
+               "short_name" : "Alton Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leslieville",
+               "short_name" : "Leslieville",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4L 2M2",
+               "short_name" : "M4L 2M2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "19 Alton Avenue, Toronto, ON M4L 2M2, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6643998,
+                  "lng" : -79.32811479999999
+               },
+               "southwest" : {
+                  "lat" : 43.6643959,
+                  "lng" : -79.3281325
+               }
+            },
+            "location" : {
+               "lat" : 43.6643998,
+               "lng" : -79.32811479999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6657468302915,
+                  "lng" : -79.32677466970848
+               },
+               "southwest" : {
+                  "lat" : 43.6630488697085,
+                  "lng" : -79.32947263029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

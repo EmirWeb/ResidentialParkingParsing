@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "115",
+               "short_name" : "115",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bastedo Avenue",
+               "short_name" : "Bastedo Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Danforth",
+               "short_name" : "East Danforth",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4C 3N1",
+               "short_name" : "M4C 3N1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "115 Bastedo Avenue, Toronto, ON M4C 3N1, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6826406,
+                  "lng" : -79.318507
+               },
+               "southwest" : {
+                  "lat" : 43.6826367,
+                  "lng" : -79.3185247
+               }
+            },
+            "location" : {
+               "lat" : 43.6826406,
+               "lng" : -79.318507
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6839876302915,
+                  "lng" : -79.3171668697085
+               },
+               "southwest" : {
+                  "lat" : 43.68128966970851,
+                  "lng" : -79.31986483029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

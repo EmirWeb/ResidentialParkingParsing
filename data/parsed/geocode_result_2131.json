@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bayliss Avenue",
+               "short_name" : "Bayliss Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mount Dennis",
+               "short_name" : "Mount Dennis",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6N 4P2",
+               "short_name" : "M6N 4P2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "22 Bayliss Avenue, York, ON M6N 4P2, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6837746,
+                  "lng" : -79.4913354
+               },
+               "southwest" : {
+                  "lat" : 43.6837706,
+                  "lng" : -79.4913529
+               }
+            },
+            "location" : {
+               "lat" : 43.6837706,
+               "lng" : -79.4913529
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.68512158029149,
+                  "lng" : -79.48999516970849
+               },
+               "southwest" : {
+                  "lat" : 43.68242361970849,
+                  "lng" : -79.4926931302915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

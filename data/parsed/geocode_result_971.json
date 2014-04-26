@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "50",
+               "short_name" : "50",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ashbury Avenue",
+               "short_name" : "Ashbury Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oakwood Village",
+               "short_name" : "Oakwood Village",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6E",
+               "short_name" : "M6E",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "50 Ashbury Avenue, Toronto, ON M6E, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6901209,
+                  "lng" : -79.44202709999999
+               },
+               "southwest" : {
+                  "lat" : 43.6901082,
+                  "lng" : -79.4420327
+               }
+            },
+            "location" : {
+               "lat" : 43.6901209,
+               "lng" : -79.4420327
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6914635302915,
+                  "lng" : -79.44068091970848
+               },
+               "southwest" : {
+                  "lat" : 43.6887655697085,
+                  "lng" : -79.4433788802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

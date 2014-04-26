@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "24",
+               "short_name" : "24",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Beaty Avenue",
+               "short_name" : "Beaty Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Parkdale",
+               "short_name" : "Parkdale",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6K",
+               "short_name" : "M6K",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "24 Beaty Avenue, Toronto, ON M6K, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6369516,
+                  "lng" : -79.4400967
+               },
+               "southwest" : {
+                  "lat" : 43.63694780000001,
+                  "lng" : -79.4401144
+               }
+            },
+            "location" : {
+               "lat" : 43.63694780000001,
+               "lng" : -79.4401144
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.63829868029151,
+                  "lng" : -79.4387565697085
+               },
+               "southwest" : {
+                  "lat" : 43.63560071970851,
+                  "lng" : -79.44145453029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

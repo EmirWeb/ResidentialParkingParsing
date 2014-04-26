@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "11",
+               "short_name" : "11",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bank Street",
+               "short_name" : "Bank St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Brockton Village",
+               "short_name" : "Brockton Village",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6K 1R4",
+               "short_name" : "M6K 1R4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "11 Bank Street, Toronto, ON M6K 1R4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6474468,
+               "lng" : -79.43148189999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6487957802915,
+                  "lng" : -79.43013291970848
+               },
+               "southwest" : {
+                  "lat" : 43.6460978197085,
+                  "lng" : -79.4328308802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

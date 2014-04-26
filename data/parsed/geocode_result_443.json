@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "81",
+               "short_name" : "81",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Aldwych Avenue",
+               "short_name" : "Aldwych Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Old East York",
+               "short_name" : "Old East York",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "East York",
+               "short_name" : "East York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4J 1X6",
+               "short_name" : "M4J 1X6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "81 Aldwych Avenue, East York, ON M4J 1X6, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6842998,
+                  "lng" : -79.3429996
+               },
+               "southwest" : {
+                  "lat" : 43.6842868,
+                  "lng" : -79.3430039
+               }
+            },
+            "location" : {
+               "lat" : 43.6842868,
+               "lng" : -79.3429996
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6856422802915,
+                  "lng" : -79.34165276970849
+               },
+               "southwest" : {
+                  "lat" : 43.6829443197085,
+                  "lng" : -79.3443507302915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

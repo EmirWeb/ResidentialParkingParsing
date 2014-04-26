@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "102",
+               "short_name" : "102",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Balfour Avenue",
+               "short_name" : "Balfour Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "East Danforth",
+               "short_name" : "East Danforth",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "East York",
+               "short_name" : "East York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4C 1T6",
+               "short_name" : "M4C 1T6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "102 Balfour Avenue, Toronto, ON M4C 1T6, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6911777,
+                  "lng" : -79.2975158
+               },
+               "southwest" : {
+                  "lat" : 43.691165,
+                  "lng" : -79.2975213
+               }
+            },
+            "location" : {
+               "lat" : 43.6911777,
+               "lng" : -79.2975213
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.69252033029149,
+                  "lng" : -79.2961695697085
+               },
+               "southwest" : {
+                  "lat" : 43.68982236970849,
+                  "lng" : -79.2988675302915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

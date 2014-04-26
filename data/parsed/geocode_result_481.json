@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alpha Avenue",
+               "short_name" : "Alpha Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Downtown",
+               "short_name" : "Downtown",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4X 1J3",
+               "short_name" : "M4X 1J3",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1 Alpha Avenue, Toronto, ON M4X 1J3, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6693704,
+                  "lng" : -79.3668047
+               },
+               "southwest" : {
+                  "lat" : 43.6693578,
+                  "lng" : -79.3668105
+               }
+            },
+            "location" : {
+               "lat" : 43.6693578,
+               "lng" : -79.3668047
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6707130802915,
+                  "lng" : -79.36545861970851
+               },
+               "southwest" : {
+                  "lat" : 43.6680151197085,
+                  "lng" : -79.36815658029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "162",
+               "short_name" : "162",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Albertus Avenue",
+               "short_name" : "Albertus Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lytton Park",
+               "short_name" : "Lytton Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4R 1J7",
+               "short_name" : "M4R 1J7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "162 Albertus Avenue, Toronto, ON M4R 1J7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7137259,
+               "lng" : -79.40477749999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7150748802915,
+                  "lng" : -79.40342851970848
+               },
+               "southwest" : {
+                  "lat" : 43.7123769197085,
+                  "lng" : -79.4061264802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "19",
+               "short_name" : "19",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bonnie Brae Boulevard",
+               "short_name" : "Bonnie Brae Blvd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Old East York",
+               "short_name" : "Old East York",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "East York",
+               "short_name" : "East York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4J 4N3",
+               "short_name" : "M4J 4N3",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "19 Bonnie Brae Boulevard, East York, ON M4J 4N3, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6885511,
+                  "lng" : -79.3312682
+               },
+               "southwest" : {
+                  "lat" : 43.688547,
+                  "lng" : -79.3312857
+               }
+            },
+            "location" : {
+               "lat" : 43.6885511,
+               "lng" : -79.3312682
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.68989803029149,
+                  "lng" : -79.32992796970848
+               },
+               "southwest" : {
+                  "lat" : 43.6872000697085,
+                  "lng" : -79.3326259302915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

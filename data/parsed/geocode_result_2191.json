@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "24",
+               "short_name" : "24",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Beaver Avenue",
+               "short_name" : "Beaver Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Davenport",
+               "short_name" : "Davenport",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6H",
+               "short_name" : "M6H",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "24 Beaver Avenue, Toronto, ON M6H, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6719015,
+                  "lng" : -79.44172429999999
+               },
+               "southwest" : {
+                  "lat" : 43.6718887,
+                  "lng" : -79.44172999999999
+               }
+            },
+            "location" : {
+               "lat" : 43.6719015,
+               "lng" : -79.44172999999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6732440802915,
+                  "lng" : -79.44037816970848
+               },
+               "southwest" : {
+                  "lat" : 43.6705461197085,
+                  "lng" : -79.44307613029149
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

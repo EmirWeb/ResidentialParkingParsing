@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "88",
+               "short_name" : "88",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Botfield Avenue",
+               "short_name" : "Botfield Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Eatonville",
+               "short_name" : "Eatonville",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Etobicoke",
+               "short_name" : "Etobicoke",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M9B 4E3",
+               "short_name" : "M9B 4E3",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "88 Botfield Avenue, Etobicoke, ON M9B 4E3, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6483531,
+               "lng" : -79.5412094
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6497020802915,
+                  "lng" : -79.5398604197085
+               },
+               "southwest" : {
+                  "lat" : 43.6470041197085,
+                  "lng" : -79.54255838029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "74",
+               "short_name" : "74",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Beaconsfield Avenue",
+               "short_name" : "Beaconsfield Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Little Portugal",
+               "short_name" : "Little Portugal",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6J 3H9",
+               "short_name" : "M6J 3H9",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "74 Beaconsfield Avenue, Toronto, ON M6J 3H9, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6454358,
+               "lng" : -79.4258614
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6467847802915,
+                  "lng" : -79.42451241970851
+               },
+               "southwest" : {
+                  "lat" : 43.6440868197085,
+                  "lng" : -79.42721038029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "719",
+               "short_name" : "719",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Balliol Street",
+               "short_name" : "Balliol St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mount Pleasant East",
+               "short_name" : "Mount Pleasant East",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4S 1E6",
+               "short_name" : "M4S 1E6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "719 Balliol Street, Toronto, ON M4S 1E6, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.7018387,
+                  "lng" : -79.3744889
+               },
+               "southwest" : {
+                  "lat" : 43.70182579999999,
+                  "lng" : -79.374494
+               }
+            },
+            "location" : {
+               "lat" : 43.70182579999999,
+               "lng" : -79.3744889
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7031812302915,
+                  "lng" : -79.3731424697085
+               },
+               "southwest" : {
+                  "lat" : 43.7004832697085,
+                  "lng" : -79.3758404302915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

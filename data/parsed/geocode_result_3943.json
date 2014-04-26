@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "409",
+               "short_name" : "409",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Briar Hill Avenue",
+               "short_name" : "Briar Hill Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lawrence Park South",
+               "short_name" : "Lawrence Park South",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M5N 1M7",
+               "short_name" : "M5N 1M7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "409 Briar Hill Avenue, Toronto, ON M5N 1M7, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.7110838,
+                  "lng" : -79.41200599999999
+               },
+               "southwest" : {
+                  "lat" : 43.711071,
+                  "lng" : -79.41201119999999
+               }
+            },
+            "location" : {
+               "lat" : 43.711071,
+               "lng" : -79.41200599999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7124263802915,
+                  "lng" : -79.41065961970848
+               },
+               "southwest" : {
+                  "lat" : 43.7097284197085,
+                  "lng" : -79.41335758029149
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

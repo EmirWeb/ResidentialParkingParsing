@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "68",
+               "short_name" : "68",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ashdale Avenue",
+               "short_name" : "Ashdale Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Leslieville",
+               "short_name" : "Leslieville",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4L 2Y6",
+               "short_name" : "M4L 2Y6",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "68 Ashdale Avenue, Toronto, ON M4L 2Y6, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.66764939999999,
+                  "lng" : -79.3198877
+               },
+               "southwest" : {
+                  "lat" : 43.6676456,
+                  "lng" : -79.3199054
+               }
+            },
+            "location" : {
+               "lat" : 43.6676456,
+               "lng" : -79.3199054
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6689964802915,
+                  "lng" : -79.3185475697085
+               },
+               "southwest" : {
+                  "lat" : 43.6662985197085,
+                  "lng" : -79.32124553029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "363",
+               "short_name" : "363",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Boon Avenue",
+               "short_name" : "Boon Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Fairbank",
+               "short_name" : "Fairbank",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6E 4A4",
+               "short_name" : "M6E 4A4",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "363 Boon Avenue, York, ON M6E 4A4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6862608,
+               "lng" : -79.4497063
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6876097802915,
+                  "lng" : -79.44835731970851
+               },
+               "southwest" : {
+                  "lat" : 43.6849118197085,
+                  "lng" : -79.45105528029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

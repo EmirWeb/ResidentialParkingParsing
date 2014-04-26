@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "39",
+               "short_name" : "39",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bartonville Avenue West",
+               "short_name" : "Bartonville Ave W",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Mt Dennis",
+               "short_name" : "Mt Dennis",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6M 2E1",
+               "short_name" : "M6M 2E1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "39 Bartonville Avenue West, Toronto, ON M6M 2E1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6887097,
+               "lng" : -79.49863209999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6900586802915,
+                  "lng" : -79.4972831197085
+               },
+               "southwest" : {
+                  "lat" : 43.6873607197085,
+                  "lng" : -79.49998108029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

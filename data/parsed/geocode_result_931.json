@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "43",
+               "short_name" : "43",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ascot Avenue",
+               "short_name" : "Ascot Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6E 1E7",
+               "short_name" : "M6E 1E7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "43 Ascot Avenue, Toronto, ON M6E 1E7, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6797934,
+                  "lng" : -79.4455462
+               },
+               "southwest" : {
+                  "lat" : 43.6797807,
+                  "lng" : -79.4455516
+               }
+            },
+            "location" : {
+               "lat" : 43.6797807,
+               "lng" : -79.4455462
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6811360302915,
+                  "lng" : -79.4441999197085
+               },
+               "southwest" : {
+                  "lat" : 43.67843806970851,
+                  "lng" : -79.44689788029152
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

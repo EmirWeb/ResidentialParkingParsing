@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "75",
+               "short_name" : "75",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Boustead Avenue",
+               "short_name" : "Boustead Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "High Park-Swansea",
+               "short_name" : "High Park-Swansea",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6R 1Y9",
+               "short_name" : "M6R 1Y9",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "75 Boustead Avenue, Toronto, ON M6R 1Y9, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6527841,
+                  "lng" : -79.4554318
+               },
+               "southwest" : {
+                  "lat" : 43.6527712,
+                  "lng" : -79.45543680000002
+               }
+            },
+            "location" : {
+               "lat" : 43.6527712,
+               "lng" : -79.4554318
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.65412663029149,
+                  "lng" : -79.45408531970851
+               },
+               "southwest" : {
+                  "lat" : 43.65142866970849,
+                  "lng" : -79.45678328029152
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

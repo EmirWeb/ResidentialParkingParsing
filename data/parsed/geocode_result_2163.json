@@ -1,0 +1,163 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Beatrice Street",
+               "short_name" : "Beatrice St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Little Italy",
+               "short_name" : "Little Italy",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6J",
+               "short_name" : "M6J",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2 Beatrice Street, Toronto, ON M6J, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.650515,
+                  "lng" : -79.4149393
+               },
+               "southwest" : {
+                  "lat" : 43.6505113,
+                  "lng" : -79.41495710000001
+               }
+            },
+            "location" : {
+               "lat" : 43.6505113,
+               "lng" : -79.41495710000001
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6518621302915,
+                  "lng" : -79.41359921970852
+               },
+               "southwest" : {
+                  "lat" : 43.6491641697085,
+                  "lng" : -79.41629718029152
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Beatrice Street",
+               "short_name" : "Beatrice St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Little Italy",
+               "short_name" : "Little Italy",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6G 1B9",
+               "short_name" : "M6G 1B9",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2 Beatrice Street, Toronto, ON M6G 1B9, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6547809,
+                  "lng" : -79.41660569999999
+               },
+               "southwest" : {
+                  "lat" : 43.65477730000001,
+                  "lng" : -79.41662339999999
+               }
+            },
+            "location" : {
+               "lat" : 43.65477730000001,
+               "lng" : -79.41662339999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.65612808029151,
+                  "lng" : -79.41526556970848
+               },
+               "southwest" : {
+                  "lat" : 43.65343011970851,
+                  "lng" : -79.4179635302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

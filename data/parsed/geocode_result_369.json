@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "105",
+               "short_name" : "105",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Alcina Avenue",
+               "short_name" : "Alcina Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Midtown Toronto",
+               "short_name" : "Midtown Toronto",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6G 2E7",
+               "short_name" : "M6G 2E7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "105 Alcina Avenue, Toronto, ON M6G 2E7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6790509,
+               "lng" : -79.42150819999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6803998802915,
+                  "lng" : -79.42015921970848
+               },
+               "southwest" : {
+                  "lat" : 43.6777019197085,
+                  "lng" : -79.42285718029149
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

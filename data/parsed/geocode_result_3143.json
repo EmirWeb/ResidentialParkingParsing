@@ -1,0 +1,78 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "43",
+               "short_name" : "43",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bingham Avenue",
+               "short_name" : "Bingham Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4E 3R1",
+               "short_name" : "M4E 3R1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "43 Bingham Avenue, Toronto, ON M4E 3R1, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6803304,
+                  "lng" : -79.28476619999999
+               },
+               "southwest" : {
+                  "lat" : 43.68032669999999,
+                  "lng" : -79.284784
+               }
+            },
+            "location" : {
+               "lat" : 43.6803304,
+               "lng" : -79.28476619999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.68167753029149,
+                  "lng" : -79.28342611970849
+               },
+               "southwest" : {
+                  "lat" : 43.6789795697085,
+                  "lng" : -79.28612408029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

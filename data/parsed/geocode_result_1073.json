@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "38",
+               "short_name" : "38",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ashland Avenue",
+               "short_name" : "Ashland Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Upper Beaches",
+               "short_name" : "Upper Beaches",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4L 1J9",
+               "short_name" : "M4L 1J9",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "38 Ashland Avenue, Toronto, ON M4L 1J9, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6683201,
+                  "lng" : -79.3154646
+               },
+               "southwest" : {
+                  "lat" : 43.6683074,
+                  "lng" : -79.31547019999999
+               }
+            },
+            "location" : {
+               "lat" : 43.6683201,
+               "lng" : -79.31547019999999
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6696627302915,
+                  "lng" : -79.31411841970851
+               },
+               "southwest" : {
+                  "lat" : 43.6669647697085,
+                  "lng" : -79.31681638029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

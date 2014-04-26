@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "901",
+               "short_name" : "901",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Briar Hill Avenue",
+               "short_name" : "Briar Hill Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Briar Hill",
+               "short_name" : "Briar Hill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6B 1M1",
+               "short_name" : "M6B 1M1",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "901 Briar Hill Avenue, York, ON M6B 1M1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.70440869999999,
+               "lng" : -79.4426263
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7057576802915,
+                  "lng" : -79.4412773197085
+               },
+               "southwest" : {
+                  "lat" : 43.7030597197085,
+                  "lng" : -79.44397528029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

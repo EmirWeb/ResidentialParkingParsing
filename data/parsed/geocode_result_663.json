@@ -1,0 +1,83 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Ardrossan Place",
+               "short_name" : "Ardrossan Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "North Toronto",
+               "short_name" : "North Toronto",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4N 2X2",
+               "short_name" : "M4N 2X2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "22 Ardrossan Place, Toronto, ON M4N 2X2, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.7275037,
+                  "lng" : -79.39548649999999
+               },
+               "southwest" : {
+                  "lat" : 43.7275001,
+                  "lng" : -79.3955043
+               }
+            },
+            "location" : {
+               "lat" : 43.7275001,
+               "lng" : -79.3955043
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.7288508802915,
+                  "lng" : -79.39414641970848
+               },
+               "southwest" : {
+                  "lat" : 43.7261529197085,
+                  "lng" : -79.3968443802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

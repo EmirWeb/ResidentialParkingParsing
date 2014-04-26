@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "134",
+               "short_name" : "134",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Brookside Drive",
+               "short_name" : "Brookside Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Beach Hill",
+               "short_name" : "Beach Hill",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4E 2M2",
+               "short_name" : "M4E 2M2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "134 Brookside Drive, Toronto, ON M4E 2M2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6804155,
+               "lng" : -79.3062264
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.68176448029149,
+                  "lng" : -79.30487741970849
+               },
+               "southwest" : {
+                  "lat" : 43.67906651970849,
+                  "lng" : -79.3075753802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

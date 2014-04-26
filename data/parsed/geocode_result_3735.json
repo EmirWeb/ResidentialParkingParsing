@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "24",
+               "short_name" : "24",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Braeside Road",
+               "short_name" : "Braeside Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Wanless Park",
+               "short_name" : "Wanless Park",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "North York",
+               "short_name" : "North York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4N 1X7",
+               "short_name" : "M4N 1X7",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "24 Braeside Road, North York, ON M4N 1X7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7305509,
+               "lng" : -79.3933952
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.73189988029149,
+                  "lng" : -79.39204621970849
+               },
+               "southwest" : {
+                  "lat" : 43.72920191970849,
+                  "lng" : -79.3947441802915
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

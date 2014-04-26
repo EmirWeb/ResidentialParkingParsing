@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "199",
+               "short_name" : "199",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Bingham Avenue",
+               "short_name" : "Bingham Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Upper Beaches",
+               "short_name" : "Upper Beaches",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Old Toronto",
+               "short_name" : "Old Toronto",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M4E 3R5",
+               "short_name" : "M4E 3R5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "199 Bingham Avenue, Toronto, ON M4E 3R5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.683769,
+               "lng" : -79.2861712
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.68511798029149,
+                  "lng" : -79.28482221970849
+               },
+               "southwest" : {
+                  "lat" : 43.6824200197085,
+                  "lng" : -79.28752018029151
+               }
+            }
+         },
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}

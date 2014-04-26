@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "58",
+               "short_name" : "58",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Amherst Avenue",
+               "short_name" : "Amherst Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Oakwood Village",
+               "short_name" : "Oakwood Village",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toronto",
+               "short_name" : "Toronto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toronto Division",
+               "short_name" : "Toronto Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "M6E 1Z2",
+               "short_name" : "M6E 1Z2",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "58 Amherst Avenue, York, ON M6E 1Z2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6909749,
+               "lng" : -79.4430199
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6923238802915,
+                  "lng" : -79.44167091970849
+               },
+               "southwest" : {
+                  "lat" : 43.6896259197085,
+                  "lng" : -79.44436888029149
+               }
+            }
+         },
+         "partial_match" : true,
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
