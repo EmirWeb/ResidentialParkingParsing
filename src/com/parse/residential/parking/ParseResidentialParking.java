@@ -39,7 +39,7 @@ public class ParseResidentialParking {
 
 	private static final String URL = "https://maps.googleapis.com/maps/api/geocode/json?address=%s,+Toronto,+ON&sensor=false&key=AIzaSyDenTRRlwVo-v7lFPMrab9AWMG7_1G5w0U";
 
-	private static final int STARTING_POSITION = 2501 * 2; // the parser gets 2 items per row for some reason
+	private static final int STARTING_POSITION = 2500;
 
 	public static class Keys {
 		public static final String ROWSET = "ROWSET";
@@ -60,14 +60,15 @@ public class ParseResidentialParking {
 				if (rowSetNode.getNodeType() == Node.ELEMENT_NODE) {
 					if (rowSetNode.hasChildNodes()) {
 						final NodeList rowNodeList = rowSetNode.getChildNodes();
-						for (int rowIndex = STARTING_POSITION; rowIndex < rowNodeList.getLength(); rowIndex++) {
+						for (int rowIndex = STARTING_POSITION * 2; rowIndex < rowNodeList.getLength(); rowIndex++) {  // the parser gets 2 items per row for some reason
 							final Node row = rowNodeList.item(rowIndex);
 							if (row.getNodeType() == Node.ELEMENT_NODE) {
 								final Element rowElement = (Element) row;
 								final String address = getValueAt(rowElement, Keys.ADDRESS);
 								final String parsedAddress = address.replaceAll("\\s", "+");
 								final String url = String.format(URL, parsedAddress);
-								final int index = jsonArray.size();
+								final int index = jsonArray.size() + STARTING_POSITION;
+								System.out.println("index: " + index);
 								final Location location = getLocation(url, index);
 								if (location != null) {
 									final Float latitude = location.mLatitude;
